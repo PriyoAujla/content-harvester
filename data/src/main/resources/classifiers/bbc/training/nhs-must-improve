@@ -1,0 +1,3445 @@
+[
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility links",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-pri",
+      "orb-nav-empty",
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-white",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section",
+      "b-header--white--black"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Skip to content",
+    "innerHrefTagText": "Skip to content",
+    "classNames": [
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": [
+      "orb-skip-links"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC iD",
+    "innerHrefTagText": "BBC iD",
+    "classNames": [
+      "orb-nav-focus",
+      "orb-nav-section",
+      "orb-nav-id"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Notifications",
+    "innerHrefTagText": "Notifications",
+    "classNames": [
+      "js-notification-link",
+      "orb-nav-focus",
+      "animated",
+      "orb-nav-section",
+      "orb-nav-id",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav",
+      "js-notification-link",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "animated",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "notification-link--triangle",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Menu",
+    "innerHrefTagText": "Menu",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-icon-arrow",
+      "orb-w",
+      "orb-icon",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Search the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-search",
+      "orb-icon-arrow",
+      "orb-icon",
+      "b-f",
+      "orb-nav-section",
+      "orb-nav-oldsearch"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News",
+    "innerHrefTagText": "BBC News",
+    "classNames": [
+      "site-brand",
+      "navigation",
+      "navigation--primary",
+      "site-brand-inner--height",
+      "site-brand--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "site-brand",
+      "navigation__heading",
+      "navigation",
+      "navigation--primary",
+      "off-screen",
+      "site-brand-inner--height",
+      "site-brand--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sections",
+    "innerHrefTagText": "Sections",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "navigation--primary",
+      "navigation__section",
+      "off-screen",
+      "site-brand-inner--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Find local news",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "find-local-wide__link",
+      "navigation--primary",
+      "navigation__section",
+      "find-local-wide",
+      "off-screen",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Home",
+    "innerHrefTagText": "Home",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "navigation-wide-list__link",
+      "find-local-wide__link",
+      "navigation__section",
+      "find-local-wide",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation--wide"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "UK",
+    "classNames": [
+      "navigation",
+      "navigation-wide-list__link",
+      "find-local-wide__link",
+      "find-local-wide",
+      "navigation-wide-list",
+      "navigation--wide",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation",
+      "navigation-wide-list__link",
+      "navigation-wide-list",
+      "navigation--wide",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World",
+    "innerHrefTagText": "World",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics",
+    "innerHrefTagText": "Politics",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tech",
+    "innerHrefTagText": "Tech",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Science",
+    "innerHrefTagText": "Science",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Health",
+    "innerHrefTagText": "Health",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education",
+    "innerHrefTagText": "Education",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entertainment \u0026 Arts",
+    "innerHrefTagText": "Entertainment \u0026 Arts",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Video \u0026 Audio",
+    "innerHrefTagText": "Video \u0026 Audio",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Magazine",
+    "innerHrefTagText": "Magazine",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "In Pictures",
+    "innerHrefTagText": "In Pictures",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Also in the News",
+    "innerHrefTagText": "Also in the News",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Special Reports",
+    "innerHrefTagText": "Special Reports",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explainers",
+    "innerHrefTagText": "Explainers",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Reporters",
+    "innerHrefTagText": "The Reporters",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Have Your Say",
+    "innerHrefTagText": "Have Your Say",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Disability",
+    "innerHrefTagText": "Disability",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "navigation-wide-list--secondary",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation-wide-list--secondary",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Regions",
+    "innerHrefTagText": "Regions",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation-wide-list--secondary",
+      "navigation-wide-list__link--first",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "index-title__container",
+      "index-title--redundant",
+      "bbccom_slot",
+      "bbccom_advert",
+      "index-title",
+      "container-width-only"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "index-title__container",
+      "index-title--redundant",
+      "bbccom_slot",
+      "bbccom_advert",
+      "index-title",
+      "container-width-only",
+      "configurable",
+      "story"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Criticised Southern Health NHS Foundation Trust \u0027must improve\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "index-title__container",
+      "story-body",
+      "column-clearfix",
+      "index-title--redundant",
+      "container--primary-and-secondary-columns",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "index-title",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "index-title__container",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "off-screen",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "off-screen",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image copyright",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body",
+      "story-body__inner",
+      "off-screen",
+      "full-width",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "media-landscape",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sara Ryan",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "media-landscape",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image caption",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "mini-info-list",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Connor Sparrowhawk, 18, drowned in a bath following an epileptic seizure while at a Southern Health hospital in Oxford",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "An under-fire health trust, criticised after a teenager drowned in a bath, has been told to significantly improve protection of mental health patients.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__section-desc",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Southern Health NHS Foundation Trust was issued the warning notice by the Care Quality Commission (CQC) following an inspection in January.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "An inquest found neglect contributed to the death of Connor Sparrowhawk, 18, at Slade House in Oxford in 2013.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "story-body__inner",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The trust said it was \"completely focused\" on tackling the concerns.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Last year an independent report blamed a \"failure of leadership\"",
+    "innerHrefTagText": "an independent report blamed a \"failure of leadership\"",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "media-caption",
+      "story-body__introduction",
+      "media-caption__text",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "for failing to investigate the unexplained deaths of hundreds of patients.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "media-caption",
+      "story-body__introduction",
+      "media-caption__text",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It was ordered after Mr Sparrowhawk was found unresponsive n the bath following an epileptic seizure at the Oxford learning disability unit, which has since closed.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "off-screen",
+      "bbccom_advert",
+      "story-body__introduction",
+      "media-caption__text",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The CQC found the trust\u0027s investigation of incidents, including deaths, was not robust enough.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "bbccom_advert",
+      "story-body__introduction",
+      "media-caption__text",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\u0027Longstanding risks\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "story-body__introduction",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It said not enough was done to learn from incidents to prevent future risks to patients, and concerns raised by patients, their carers and staff were not effectively responded to.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Dr Paul Lelliott, CQC deputy chief inspector of hospitals, said the safety of patients with mental ill health and or learning disabilities required \"significant improvement\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"We found longstanding risks to patients, arising from the physical environment, that had not been dealt with effectively.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"The Trust\u0027s internal governance arrangements to learn from serious incidents or investigations were not good enough, meaning that opportunities to minimise further risks to patients were lost,\" he added.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Health service regulator, NHS Improvement, said it would impose management changes at the trust if progress is not made on fixing the concerns raised by the CQC.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Executive medical director Dr Kathy Mclean said: \"Patients and service users at Southern Health expect to get safe and good quality care, and it is worrying to see that the CQC have identified patient safety concerns which have still gone unaddressed at the trust.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"If we don\u0027t see enough progress on this we will consider taking action on behalf of patients,\" she added.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__crosshead",
+      "bbccom_advert"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image caption",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The trust\u0027s chief executive reiterated an apology following the CQC report",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Following the report\u0027s publication, trust chief executive Katrina Percy rejected calls for her resignation and said she had been \"clear and open\" about the work needed to address concerns raised.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"Good progress has been made, however we accept that the CQC feels that in some areas we have not acted swiftly enough,\" she said.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"My main priority is, and always has been, the safety of our patients. We take the CQC\u0027s concerns extremely seriously and have taken a number of further actions.\"",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\u0027Feet dragging\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Sparrowhawk\u0027s mother, Sara Ryan, responded to the report on Twitter by repeating her call for resignations from the trust\u0027s senior leadership.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "She posted: \"Completely baffled the board are still in place.\"",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "has-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"Nothing else is needed. Just action. Why the feet dragging? Astonishing,\" she wrote in another.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__crosshead",
+      "off-screen",
+      "media-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Dan Scorer of learning disability charity Mencap, said the CQC warning notice showed little had changed since the independent report was published.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "story-body__crosshead",
+      "off-screen",
+      "media-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"Families are being left questioning whether the death of their loved one should have been investigated and whether the death might have been avoided,\" he said.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__crosshead",
+      "off-screen",
+      "media-caption",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"The lack of urgency to tackle this national scandal is unacceptable,\" he added.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__crosshead",
+      "off-screen",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Southern Health NHS Foundation Trust",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The trust is one of the country\u0027s largest mental health trusts, covering Hampshire, Dorset, Wiltshire, Oxfordshire and Buckinghamshire",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Provides services to about 45,000 people",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Employs 9,000 staff overall at about 200 sites",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Provides mental health treatment and support to adults in \"secure and specialised settings\" and support for adults with learning disabilities",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Runs an acute adolescent psychiatric service which provides inpatient treatment for 12 to 18 year-olds experiencing acute mental illness",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The trust\u0027s board is ultimately responsible for performance and is accountable to a council of governors",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Source: Southern Health NHS Foundation Trust",
+    "innerHrefTagText": "Southern Health NHS Foundation Trust",
+    "classNames": [
+      "story-body__line",
+      "story-body__link-external",
+      "story-body__crosshead",
+      "story-body__list-item",
+      "story-body__unordered-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share this story        About sharing",
+    "innerHrefTagText": "About sharing",
+    "classNames": [
+      "",
+      "ghost-column",
+      "share__title",
+      "hidden",
+      "story-body__link-external",
+      "story-body__line",
+      "share--lightweight",
+      "share__title--lightweight",
+      "show",
+      "share",
+      "story-body__list-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email",
+    "innerHrefTagText": "Email",
+    "classNames": [
+      "",
+      "share__tools",
+      "ghost-column",
+      "share__title",
+      "hidden",
+      "share--lightweight",
+      "show",
+      "story-body__list-item",
+      "story-body__link-external",
+      "story-body__line",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Facebook",
+    "innerHrefTagText": "Facebook",
+    "classNames": [
+      "",
+      "share__tools",
+      "ghost-column",
+      "share__title",
+      "hidden",
+      "share--lightweight",
+      "show",
+      "share__tool--facebook",
+      "story-body__link-external",
+      "story-body__line",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter",
+    "innerHrefTagText": "Twitter",
+    "classNames": [
+      "",
+      "share__tools",
+      "shortenUrl",
+      "ghost-column",
+      "share__title",
+      "share--lightweight",
+      "show",
+      "share__tool--facebook",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool--twitter",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "WhatsApp",
+    "innerHrefTagText": "WhatsApp",
+    "classNames": [
+      "share__tools",
+      "shortenUrl",
+      "share__tools--lightweight",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "share__tool--facebook",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Linkedin",
+    "innerHrefTagText": "Linkedin",
+    "classNames": [
+      "share__tool--linkedin",
+      "shortenUrl",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "share__tool--facebook",
+      "share__tool"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More on this story",
+    "innerHrefTagText": "",
+    "classNames": [
+      "share__tool--linkedin",
+      "shortenUrl",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "more-on-this-story",
+      "story-more",
+      "group__title",
+      "share__tool",
+      "group__header",
+      "group",
+      "story-alsos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Southern Health NHS trust deaths response criticised",
+    "innerHrefTagText": "Southern Health NHS trust deaths response criticised",
+    "classNames": [
+      "share__tool--whatsapp",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "share__tool--linkedin",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "share__tool",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "24 March 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "share__tool--linkedin",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "share__tool",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Families demand resignations over Southern Health NHS Trust deaths",
+    "innerHrefTagText": "Families demand resignations over Southern Health NHS Trust deaths",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "11 January 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__header",
+      "unit__title"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Investigating unexpected deaths - unanswered questions for the NHS",
+    "innerHrefTagText": "Investigating unexpected deaths - unanswered questions for the NHS",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "21 December 2015",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "NHS death investigations to be reviewed",
+    "innerHrefTagText": "NHS death investigations to be reviewed",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "17 December 2015",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "NHS failure to probe deaths \u0027shocking\u0027 - Jeremy Hunt",
+    "innerHrefTagText": "NHS failure to probe deaths \u0027shocking\u0027 - Jeremy Hunt",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "10 December 2015",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "NHS trust \u0027failed to investigate hundreds of deaths\u0027",
+    "innerHrefTagText": "NHS trust \u0027failed to investigate hundreds of deaths\u0027",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "10 December 2015",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Connor Sparrowhawk inquest: Care unit death \u0027contributed to by neglect\u0027",
+    "innerHrefTagText": "Connor Sparrowhawk inquest: Care unit death \u0027contributed to by neglect\u0027",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "16 October 2015",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Related Internet links",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "unit__body",
+      "related-links--external",
+      "group__title",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Care Quality Commission",
+    "innerHrefTagText": "Care Quality Commission",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "unit__body",
+      "related-links--external",
+      "group__title",
+      "cta",
+      "unit",
+      "unit__meta",
+      "unit--headline",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Southern Health NHS Foundation Trust",
+    "innerHrefTagText": "Southern Health NHS Foundation Trust",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "related-links--external",
+      "group__title",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--headline",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The BBC is not responsible for the content of external Internet sites",
+    "innerHrefTagText": "",
+    "classNames": [
+      "cta",
+      "unit",
+      "unit__link-wrapper",
+      "unit--headline",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Top Stories",
+    "innerHrefTagText": "",
+    "classNames": [
+      "column--secondary",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "outbrain-ad",
+      "top-stories-promo__title"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Swiss police search Uefa offices",
+    "innerHrefTagText": "Swiss police search Uefa offices",
+    "classNames": [
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Uefa\u0027s offices are searched by Swiss police following papers leaked from a Panamanian law firm, and a Fifa lawyer resigns.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Man admits killing shopkeeper Asad Shah",
+    "innerHrefTagText": "Man admits killing shopkeeper Asad Shah",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Government spends £9m on pro-EU leaflets",
+    "innerHrefTagText": "Government spends £9m on pro-EU leaflets",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Features",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "hotspot--empty",
+      "features-and-analysis",
+      "date--v2",
+      "top-stories-promo-story",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The cabbage myth",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "hotspot--empty",
+      "features-and-analysis",
+      "responsive-image--16by9",
+      "date--v2",
+      "js-delayed-image-load",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "features-and-analysis__stories",
+      "bbccom_advert",
+      "promo-unit-spacer",
+      "features-and-analysis__story",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "How a tale about 26,911 words of red tape was born",
+    "innerHrefTagText": "",
+    "classNames": [
+      "hotspot--empty",
+      "features-and-analysis",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "features-and-analysis__stories",
+      "bbccom_advert",
+      "promo-unit-spacer",
+      "bold-image-promo__summary",
+      "features-and-analysis__story",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Dangerous fad?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "features-and-analysis__stories",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "promo-unit-spacer",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The trend for people giving themselves electric shocks",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I\u0027m moving to Australia\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The junior doctors leaving over contract dispute",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accidental jihadist",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The teenager who just wanted to travel",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Leant on",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Gap pulls advert photo in \"passive racism\" controversy",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tomorrow\u0027s buildings",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Is world\u0027s greenest office also smart?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Caged like animals",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I grew up in a Romanian orphanage and still miss it\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Uber v rickshaw",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "A road race on Delhi\u0027s streets - who will win?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I sleep in my car\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "One soldier\u0027s struggle with PTSD",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "navigation--footer__heading",
+      "bbccom_advert",
+      "inread",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "bbccom_slot",
+      "navigation--footer__heading",
+      "bbccom_advert",
+      "navigation-arrow",
+      "inread",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sections",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation-core-title",
+      "navigation--footer__heading",
+      "navigation-arrow",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "",
+      "navigation-core-title",
+      "navigation--footer__heading",
+      "secondary-navigation--bottom__toplevel",
+      "navigation-arrow",
+      "navigation-core-index",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Regions",
+    "innerHrefTagText": "Regions",
+    "classNames": [
+      "",
+      "navigation-core-title",
+      "secondary-navigation--bottom__toplevel",
+      "navigation-core-index",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Home",
+    "innerHrefTagText": "Home",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "core--with-secondary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "UK",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "core--with-secondary",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "off-screen",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "core--with-secondary",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK Home",
+    "innerHrefTagText": "UK Home",
+    "classNames": [
+      "navigation--bottom__toplevel",
+      "off-screen",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "selected",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "off-screen",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "selected",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "off-screen",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "N. Ireland",
+    "innerHrefTagText": "N. Ireland",
+    "classNames": [
+      "off-screen",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Scotland",
+    "innerHrefTagText": "Scotland",
+    "classNames": [
+      "off-screen",
+      "navigation-panel-secondary",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Alba",
+    "innerHrefTagText": "Alba",
+    "classNames": [
+      "off-screen",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wales",
+    "innerHrefTagText": "Wales",
+    "classNames": [
+      "off-screen"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cymru",
+    "innerHrefTagText": "Cymru",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World",
+    "innerHrefTagText": "World",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World Home",
+    "innerHrefTagText": "World Home",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Africa",
+    "innerHrefTagText": "Africa",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Asia",
+    "innerHrefTagText": "Asia",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Australia",
+    "innerHrefTagText": "Australia",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Europe",
+    "innerHrefTagText": "Europe",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Latin America",
+    "innerHrefTagText": "Latin America",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Middle East",
+    "innerHrefTagText": "Middle East",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US \u0026 Canada",
+    "innerHrefTagText": "US \u0026 Canada",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business Home",
+    "innerHrefTagText": "Business Home",
+    "classNames": [
+      "navigation-panel--closed",
+      "js-navigation-panel-Business",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Your Money",
+    "innerHrefTagText": "Your Money",
+    "classNames": [
+      "navigation-panel--closed",
+      "js-navigation-panel-Business",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Market Data",
+    "innerHrefTagText": "Market Data",
+    "classNames": [
+      "navigation-panel--closed",
+      "js-navigation-panel-Business",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Markets",
+    "innerHrefTagText": "Markets",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Companies",
+    "innerHrefTagText": "Companies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Economy",
+    "innerHrefTagText": "Economy",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics",
+    "innerHrefTagText": "Politics",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics Home",
+    "innerHrefTagText": "Politics Home",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parliaments",
+    "innerHrefTagText": "Parliaments",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Election 2016",
+    "innerHrefTagText": "Election 2016",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "EU Referendum",
+    "innerHrefTagText": "EU Referendum",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US Election 2016",
+    "innerHrefTagText": "US Election 2016",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tech",
+    "innerHrefTagText": "Tech",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Science",
+    "innerHrefTagText": "Science",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Health",
+    "innerHrefTagText": "Health",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education",
+    "innerHrefTagText": "Education",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education Home",
+    "innerHrefTagText": "Education Home",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "School Report",
+    "innerHrefTagText": "School Report",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Global Education",
+    "innerHrefTagText": "Global Education",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entertainment \u0026 Arts",
+    "innerHrefTagText": "Entertainment \u0026 Arts",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Video \u0026 Audio",
+    "innerHrefTagText": "Video \u0026 Audio",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Magazine",
+    "innerHrefTagText": "Magazine",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "In Pictures",
+    "innerHrefTagText": "In Pictures",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Also in the News",
+    "innerHrefTagText": "Also in the News",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Special Reports",
+    "innerHrefTagText": "Special Reports",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explainers",
+    "innerHrefTagText": "Explainers",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Reporters",
+    "innerHrefTagText": "The Reporters",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Have Your Say",
+    "innerHrefTagText": "Have Your Say",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Disability",
+    "innerHrefTagText": "Disability",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News Services",
+    "innerHrefTagText": "",
+    "classNames": [
+      "blue-tit__title",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "On your mobile",
+    "innerHrefTagText": "On your mobile",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "On your connected tv",
+    "innerHrefTagText": "On your connected tv",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get news alerts",
+    "innerHrefTagText": "Get news alerts",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "newsletter",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact BBC News",
+    "innerHrefTagText": "Contact BBC News",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "newsletter",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "contact-us"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explore the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "orb-footer-inner",
+      "orb-footer",
+      "orb-nav-sec",
+      "b-footer--grey--white",
+      "b-g-p",
+      "b-r",
+      "contact-us",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-footer",
+      "orb-nav-sec",
+      "b-footer--grey--white",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sec",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Terms of Use",
+    "innerHrefTagText": "Terms of Use",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "About the BBC",
+    "innerHrefTagText": "About the BBC",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Privacy Policy",
+    "innerHrefTagText": "Privacy Policy",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cookies",
+    "innerHrefTagText": "Cookies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parental Guidance",
+    "innerHrefTagText": "Parental Guidance",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact the BBC",
+    "innerHrefTagText": "Contact the BBC",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Advertise with us",
+    "innerHrefTagText": "Advertise with us",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Ad choices",
+    "innerHrefTagText": "Ad choices",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Copyright © 2016 BBC.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+    "innerHrefTagText": "Read about our approach to external linking.",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  }
+]

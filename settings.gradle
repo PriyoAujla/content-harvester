@@ -1,0 +1,14 @@
+rootProject.name = 'content-harvester'
+
+include 'evaluation'
+
+include 'feature-extraction'
+
+include 'classifier'
+
+include 'blockify'
+
+include 'server-pippo'
+
+include 'data'
+

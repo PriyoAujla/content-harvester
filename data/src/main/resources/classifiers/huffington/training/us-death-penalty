@@ -1,0 +1,3441 @@
+[
+  {
+    "isArticleTextBlock": false,
+    "text": "View mobile site",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "20 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "branding",
+      "masthead",
+      "tophead_wrapper",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Huffpost UK",
+    "innerHrefTagText": "Huffpost UK",
+    "classNames": [
+      "uk",
+      "branding",
+      "masthead",
+      "title",
+      "tophead_wrapper",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "uk",
+    "innerHrefTagText": "",
+    "classNames": [
+      "uk-subtitle",
+      "uk",
+      "branding",
+      "subtitle",
+      "masthead",
+      "title",
+      "tophead_wrapper",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Edition:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "uk-subtitle",
+      "current",
+      "uk",
+      "branding",
+      "subtitle",
+      "edition",
+      "title",
+      "geo_dropdown"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "uk",
+    "innerHrefTagText": "",
+    "classNames": [
+      "uk-subtitle",
+      "current",
+      "this-region",
+      "uk",
+      "branding",
+      "subtitle",
+      "edition",
+      "title",
+      "geo_dropdown"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Show/Hide",
+    "innerHrefTagText": "",
+    "classNames": [
+      "uk-subtitle",
+      "current",
+      "this-region",
+      "show-hide",
+      "uk",
+      "arrow-down",
+      "subtitle",
+      "edition",
+      "title",
+      "geo_dropdown"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "عربي (Arabic)",
+    "innerHrefTagText": "عربي (Arabic)",
+    "classNames": [
+      "uk-subtitle",
+      "current",
+      "this-region",
+      "editions",
+      "show-hide",
+      "arrow-down",
+      "subtitle",
+      "edition",
+      "inner",
+      "off",
+      "geo_dropdown"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "AR",
+    "innerHrefTagText": "",
+    "classNames": [
+      "current",
+      "this-region",
+      "editions",
+      "show-hide",
+      "arrow-down",
+      "edition",
+      "inner",
+      "off",
+      "geo_dropdown"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Australia",
+    "innerHrefTagText": "Australia",
+    "classNames": [
+      "editions",
+      "show-hide",
+      "arrow-down",
+      "inner",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "AU",
+    "innerHrefTagText": "",
+    "classNames": [
+      "editions",
+      "show-hide",
+      "inner",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Brasil",
+    "innerHrefTagText": "Brasil",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BR",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Canada",
+    "innerHrefTagText": "Canada",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CA",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Deutschland",
+    "innerHrefTagText": "Deutschland",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "DE",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "España",
+    "innerHrefTagText": "España",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "ES",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "France",
+    "innerHrefTagText": "France",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "FR",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Ελλάδα (Greece)",
+    "innerHrefTagText": "Ελλάδα (Greece)",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "GR",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "India",
+    "innerHrefTagText": "India",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "IN",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Italia",
+    "innerHrefTagText": "Italia",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "IT",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "日本 (Japan)",
+    "innerHrefTagText": "日本 (Japan)",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "JP",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "한국 (Korea)",
+    "innerHrefTagText": "한국 (Korea)",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "KR",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Maghreb",
+    "innerHrefTagText": "Maghreb",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "MG",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "United Kingdom",
+    "innerHrefTagText": "United Kingdom",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "United States",
+    "innerHrefTagText": "United States",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Follow",
+    "innerHrefTagText": "Follow",
+    "classNames": [
+      "social-subscribe-search",
+      "twitter",
+      "like",
+      "twitter-follow-button",
+      "facebook",
+      "fb-like",
+      "tweet",
+      "content",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Newsletters",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "newsletters",
+      "like",
+      "twitter-follow-button",
+      "facebook",
+      "fb-like",
+      "tweet",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get UKNewsletters",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "newsletters",
+      "form",
+      "like",
+      "twitter-follow-button",
+      "fb-like",
+      "tweet",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email address",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "newsletters",
+      "form",
+      "twitter-follow-button",
+      "fb-like",
+      "tweet",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Enter Email Address",
+    "innerHrefTagText": "",
+    "classNames": [
+      "newsletters",
+      "form",
+      "email_subscribe_check",
+      "twitter-follow-button",
+      "input-email",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iOS app",
+    "innerHrefTagText": "iOS app",
+    "classNames": [
+      "commercial_big_news_links",
+      "links-products",
+      "big-news-links",
+      "topnav",
+      "products"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Android app",
+    "innerHrefTagText": "Android app",
+    "classNames": [
+      "commercial_big_news_links",
+      "big-news-links",
+      "products"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More",
+    "innerHrefTagText": "More",
+    "classNames": [
+      "commercial_big_news_links",
+      "products"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Desktop Alerts",
+    "innerHrefTagText": "Desktop Alerts",
+    "classNames": [
+      "hidden",
+      "not-logged-in",
+      "hp_desktop_alerts",
+      "user",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "$USERNAME",
+    "innerHrefTagText": "",
+    "classNames": [
+      "logged-in",
+      "hidden",
+      "top",
+      "hp_desktop_alerts",
+      "vcard",
+      "off",
+      "account",
+      "group",
+      "username"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Desktop Notifications",
+    "innerHrefTagText": "Desktop Notifications",
+    "classNames": [
+      "logged-in",
+      "controls",
+      "top",
+      "hidden",
+      "hp_desktop_alerts",
+      "vcard",
+      "off",
+      "account",
+      "group",
+      "username"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Profile",
+    "innerHrefTagText": "Profile",
+    "classNames": [
+      "controls",
+      "top",
+      "hidden",
+      "hp_desktop_alerts",
+      "profile",
+      "group",
+      "username"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Settings",
+    "innerHrefTagText": "Settings",
+    "classNames": [
+      "controls",
+      "hidden",
+      "hp_desktop_alerts",
+      "profile",
+      "username"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Logout",
+    "innerHrefTagText": "Logout",
+    "classNames": [
+      "controls",
+      "hidden",
+      "hp_desktop_alerts",
+      "profile"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "FRONT PAGE",
+    "innerHrefTagText": "FRONT PAGE",
+    "classNames": [
+      "verticals-ul",
+      "toplevel",
+      "uk",
+      "main",
+      "toplevel-a",
+      "verticals",
+      "front-page",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "",
+      "verticals-ul",
+      "toplevel",
+      "uk",
+      "main",
+      "toplevel-a",
+      "verticals",
+      "front-page",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics",
+    "innerHrefTagText": "Politics",
+    "classNames": [
+      "",
+      "verticals-ul",
+      "toplevel",
+      "uk-politics",
+      "toplevel-a",
+      "front-page"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Waugh Zone April 20, 2016",
+    "innerHrefTagText": "The Waugh Zone April 20, 2016",
+    "classNames": [
+      "",
+      "trending",
+      "toplevel",
+      "menu-container",
+      "uk-politics",
+      "toplevel-a",
+      "more-stories",
+      "front-page",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "",
+      "trending",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "uk-politics",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Waugh Zone April 19, 2016",
+    "innerHrefTagText": "The Waugh Zone April 19, 2016",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "uk-politics",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "12",
+    "innerHrefTagText": "12",
+    "classNames": [
+      "trending",
+      "comments",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Chris Askew: Do the Criticisms of a Sugar Tax Stack Up?",
+    "innerHrefTagText": "Chris Askew: Do the Criticisms of a Sugar Tax Stack Up?",
+    "classNames": [
+      "trending",
+      "comments",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "2",
+    "innerHrefTagText": "2",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Waugh Zone April 18, 2016",
+    "innerHrefTagText": "The Waugh Zone April 18, 2016",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Politics",
+    "innerHrefTagText": "Go to Politics",
+    "classNames": [
+      "comments",
+      "goto"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Politics",
+    "innerHrefTagText": "",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Boris Johnson",
+    "innerHrefTagText": "Boris Johnson",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tories",
+    "innerHrefTagText": "Tories",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Labour",
+    "innerHrefTagText": "Labour",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Lib Dems",
+    "innerHrefTagText": "Lib Dems",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Ukip",
+    "innerHrefTagText": "Ukip",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Westminster",
+    "innerHrefTagText": "Westminster",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Lifestyle",
+    "innerHrefTagText": "Lifestyle",
+    "classNames": [
+      "toplevel",
+      "uk-lifestyle",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Jayne Hardy: Depression: What You Don\u0027t See",
+    "innerHrefTagText": "Jayne Hardy: Depression: What You Don\u0027t See",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "uk-lifestyle",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "7",
+    "innerHrefTagText": "7",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "uk-lifestyle",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rachel Moss: No Four-Year-Old Should Have to \u0027Define Their Gender\u0027",
+    "innerHrefTagText": "Rachel Moss: No Four-Year-Old Should Have to \u0027Define Their Gender\u0027",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "uk-lifestyle",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "1",
+    "innerHrefTagText": "1",
+    "classNames": [
+      "trending",
+      "comments",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Steve Ford: People With Parkinson\u0027s Forced to Hide or Lie About Their Condition",
+    "innerHrefTagText": "Steve Ford: People With Parkinson\u0027s Forced to Hide or Lie About Their Condition",
+    "classNames": [
+      "trending",
+      "comments",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Judith Hulf: From Fillers to Face Lifts - GMC\u0027s Tough New Standards for Cosmetic Practice Docs",
+    "innerHrefTagText": "Judith Hulf: From Fillers to Face Lifts - GMC\u0027s Tough New Standards for Cosmetic Practice Docs",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "comments"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Lifestyle",
+    "innerHrefTagText": "Go to Lifestyle",
+    "classNames": [
+      "comments",
+      "goto"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Lifestyle",
+    "innerHrefTagText": "",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Health",
+    "innerHrefTagText": "Health",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Diet \u0026 Fitness",
+    "innerHrefTagText": "Diet \u0026 Fitness",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Dating \u0026 Relationships",
+    "innerHrefTagText": "Dating \u0026 Relationships",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Third Metric",
+    "innerHrefTagText": "Third Metric",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What\u0027s Working",
+    "innerHrefTagText": "What\u0027s Working",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Women",
+    "innerHrefTagText": "Women",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Men",
+    "innerHrefTagText": "Men",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parents",
+    "innerHrefTagText": "Parents",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Style",
+    "innerHrefTagText": "Style",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parents",
+    "innerHrefTagText": "Parents",
+    "classNames": [
+      "toplevel",
+      "uk-parents",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cheryl Barry: What to Do When You Don\u0027t Get Your Choice of Primary School",
+    "innerHrefTagText": "Cheryl Barry: What to Do When You Don\u0027t Get Your Choice of Primary School",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "uk-parents",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "14",
+    "innerHrefTagText": "14",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "uk-parents",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Parents",
+    "innerHrefTagText": "Go to Parents",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Parents",
+    "innerHrefTagText": "",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parents-To-Be",
+    "innerHrefTagText": "Parents-To-Be",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "New Parents",
+    "innerHrefTagText": "New Parents",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Family",
+    "innerHrefTagText": "Family",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Family Time",
+    "innerHrefTagText": "Family Time",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parent Voices",
+    "innerHrefTagText": "Parent Voices",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Thriving Parents",
+    "innerHrefTagText": "Thriving Parents",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tech",
+    "innerHrefTagText": "Tech",
+    "classNames": [
+      "toplevel",
+      "toplevel-a",
+      "uk-tech"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Amanda Feilding: The Coming of Age of LSD",
+    "innerHrefTagText": "Amanda Feilding: The Coming of Age of LSD",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "menu-container",
+      "toplevel-a",
+      "uk-tech",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "27",
+    "innerHrefTagText": "27",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "toplevel-a",
+      "uk-tech",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Tech",
+    "innerHrefTagText": "Go to Tech",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Tech",
+    "innerHrefTagText": "",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "How To",
+    "innerHrefTagText": "How To",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Buyer\u0027s Guides",
+    "innerHrefTagText": "Buyer\u0027s Guides",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Gaming",
+    "innerHrefTagText": "Gaming",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Space",
+    "innerHrefTagText": "Space",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Apple",
+    "innerHrefTagText": "Apple",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Innovation",
+    "innerHrefTagText": "Innovation",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Young Voices",
+    "innerHrefTagText": "Young Voices",
+    "classNames": [
+      "",
+      "toplevel",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Comedy",
+    "innerHrefTagText": "Comedy",
+    "classNames": [
+      "",
+      "toplevel",
+      "uk-comedy",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Man Trapped In Compost Bin In Hilarious Video",
+    "innerHrefTagText": "Man Trapped In Compost Bin In Hilarious Video",
+    "classNames": [
+      "",
+      "trending",
+      "toplevel",
+      "menu-container",
+      "uk-comedy",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "",
+      "trending",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "uk-comedy",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Comedy",
+    "innerHrefTagText": "Go to Comedy",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Comedy",
+    "innerHrefTagText": "",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weird News",
+    "innerHrefTagText": "Weird News",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Funny Videos",
+    "innerHrefTagText": "Funny Videos",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Viral Videos",
+    "innerHrefTagText": "Viral Videos",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Donald Trump",
+    "innerHrefTagText": "Donald Trump",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter Funnies",
+    "innerHrefTagText": "Twitter Funnies",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Funny Animals",
+    "innerHrefTagText": "Funny Animals",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Pics \u0026 Giggles",
+    "innerHrefTagText": "Pics \u0026 Giggles",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TopicaLOL",
+    "innerHrefTagText": "TopicaLOL",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entertainment",
+    "innerHrefTagText": "Entertainment",
+    "classNames": [
+      "toplevel",
+      "uk-entertainment",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Jessie Thompson: \u0027X\u0027 and \u0027Cyprus Avenue\u0027 Remind Us That We Keep Ourselves in Each Other",
+    "innerHrefTagText": "Jessie Thompson: \u0027X\u0027 and \u0027Cyprus Avenue\u0027 Remind Us That We Keep Ourselves in Each Other",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "menu-container",
+      "uk-entertainment",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "trending",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "uk-entertainment",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Entertainment",
+    "innerHrefTagText": "Go to Entertainment",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Entertainment",
+    "innerHrefTagText": "",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "#Loud\u0026Proud",
+    "innerHrefTagText": "#Loud\u0026Proud",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BGT",
+    "innerHrefTagText": "BGT",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "EastEnders",
+    "innerHrefTagText": "EastEnders",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Coronation Street",
+    "innerHrefTagText": "Coronation Street",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Emmerdale",
+    "innerHrefTagText": "Emmerdale",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV Soaps",
+    "innerHrefTagText": "TV Soaps",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Celeb Pics",
+    "innerHrefTagText": "Celeb Pics",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture Of Kindness",
+    "innerHrefTagText": "Culture Of Kindness",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wise Words",
+    "innerHrefTagText": "Wise Words",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV News",
+    "innerHrefTagText": "TV News",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV Reviews",
+    "innerHrefTagText": "TV Reviews",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Daytime TV",
+    "innerHrefTagText": "Daytime TV",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Style",
+    "innerHrefTagText": "Style",
+    "classNames": [
+      "uk-style",
+      "toplevel",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Skincare Hacks You Need To Know About",
+    "innerHrefTagText": "Skincare Hacks You Need To Know About",
+    "classNames": [
+      "trending",
+      "uk-style",
+      "toplevel",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0",
+    "innerHrefTagText": "0",
+    "classNames": [
+      "trending",
+      "uk-style",
+      "toplevel",
+      "comments",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Go to Style",
+    "innerHrefTagText": "Go to Style",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "menu-container",
+      "toplevel-a",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More in Style",
+    "innerHrefTagText": "",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Women\u0027s Fashion",
+    "innerHrefTagText": "Women\u0027s Fashion",
+    "classNames": [
+      "trending",
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in",
+      "more-stories"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Men\u0027s Fashion",
+    "innerHrefTagText": "Men\u0027s Fashion",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Beauty",
+    "innerHrefTagText": "Beauty",
+    "classNames": [
+      "comments",
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Style Voices",
+    "innerHrefTagText": "Style Voices",
+    "classNames": [
+      "goto",
+      "more-vertical",
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fashion For All",
+    "innerHrefTagText": "Fashion For All",
+    "classNames": [
+      "more-in"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sustainable Fashion",
+    "innerHrefTagText": "Sustainable Fashion",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What\u0027s Working",
+    "innerHrefTagText": "What\u0027s Working",
+    "classNames": [
+      "",
+      "toplevel",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BLOGS",
+    "innerHrefTagText": "BLOGS",
+    "classNames": [
+      "",
+      "toplevel",
+      "arrow-down",
+      "toplevel-a"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bryn Mooser",
+    "innerHrefTagText": "",
+    "classNames": [
+      "toplevel",
+      "arrow-down",
+      "menu-container",
+      "subtitle",
+      "photo",
+      "text",
+      "toplevel-a",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": [
+      "toplevel",
+      "subtitle_separator",
+      "arrow-down",
+      "menu-container",
+      "subtitle",
+      "photo",
+      "text",
+      "toplevel-a",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HuffPost RYOT: Lights, Camera, Impact",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "arrow-down",
+      "menu-container",
+      "subtitle",
+      "photo",
+      "text",
+      "toplevel-a",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Jess Phillips",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Violent Parents - Calling for the End to Child Contact at Any Cost",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sir Christopher Meyer",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Trying to Gag Obama on Brexit Betrays British Values",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Anonymous Survivor",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "So Many Abused Women and Children Are Being Failed By the Family Courts",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Dave Berry",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "This Revelation Will Change the Way You Live Your Life, Forever",
+    "innerHrefTagText": "",
+    "classNames": [
+      "subtitle_separator",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "View all featured blog posts",
+    "innerHrefTagText": "View all featured blog posts",
+    "classNames": [
+      "subtitle_separator",
+      "arrow",
+      "more",
+      "subtitle",
+      "photo",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "UK",
+    "classNames": [
+      "stories",
+      "arrow",
+      "this-vertical",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "#Loud\u0026Proud",
+    "innerHrefTagText": "#Loud\u0026Proud",
+    "classNames": [
+      "stories",
+      "this-vertical",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Waugh Zone",
+    "innerHrefTagText": "Waugh Zone",
+    "classNames": [
+      "this-vertical",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Brexit",
+    "innerHrefTagText": "Brexit",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Media",
+    "innerHrefTagText": "Media",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Celebrity Injunction",
+    "innerHrefTagText": "Celebrity Injunction",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Panama",
+    "innerHrefTagText": "Panama",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BGT",
+    "innerHrefTagText": "BGT",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Women",
+    "innerHrefTagText": "Women",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Environment",
+    "innerHrefTagText": "Environment",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Impact",
+    "innerHrefTagText": "Impact",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entrepreneurs",
+    "innerHrefTagText": "Entrepreneurs",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Property",
+    "innerHrefTagText": "Property",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Makers",
+    "innerHrefTagText": "Makers",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Why Business Transparency Is the Real Lesson of the Panama Papers",
+    "innerHrefTagText": "Why Business Transparency Is the Real Lesson of the Panama Papers",
+    "classNames": [
+      "async-img-load",
+      "three-up-list",
+      "three-up-item",
+      "three-up",
+      "three-up-holder",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "A Campaign Led by Young People Can Help Make the Difference in Stopping Slavery",
+    "innerHrefTagText": "A Campaign Led by Young People Can Help Make the Difference in Stopping Slavery",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Depression: What You Don\u0027t See",
+    "innerHrefTagText": "Depression: What You Don\u0027t See",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What to Do When You Don\u0027t Get Your Choice of Primary School",
+    "innerHrefTagText": "What to Do When You Don\u0027t Get Your Choice of Primary School",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Foxes in Sheeps\u0027 Clothing: Why Has Everyone Fallen for Leicester City?",
+    "innerHrefTagText": "Foxes in Sheeps\u0027 Clothing: Why Has Everyone Fallen for Leicester City?",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027X\u0027 and \u0027Cyprus Avenue\u0027 Remind Us That We Keep Ourselves in Each Other",
+    "innerHrefTagText": "\u0027X\u0027 and \u0027Cyprus Avenue\u0027 Remind Us That We Keep Ourselves in Each Other",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "No Four-Year-Old Should Have to \u0027Define Their Gender\u0027",
+    "innerHrefTagText": "No Four-Year-Old Should Have to \u0027Define Their Gender\u0027",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sending Schoolgirls Home For Wearing ‘Short Skirts\u0027 Is Where Victim Blaming Begins",
+    "innerHrefTagText": "Sending Schoolgirls Home For Wearing ‘Short Skirts\u0027 Is Where Victim Blaming Begins",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Bizarre Scrutiny Around The Duchess Of Cambridge\u0027s Feet Is The Worst Kind Of Sexism",
+    "innerHrefTagText": "The Bizarre Scrutiny Around The Duchess Of Cambridge\u0027s Feet Is The Worst Kind Of Sexism",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From Fillers to Face Lifts - GMC\u0027s Tough New Standards for Cosmetic Practice Docs",
+    "innerHrefTagText": "From Fillers to Face Lifts - GMC\u0027s Tough New Standards for Cosmetic Practice Docs",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "People With Parkinson\u0027s Forced to Hide or Lie About Their Condition",
+    "innerHrefTagText": "People With Parkinson\u0027s Forced to Hide or Lie About Their Condition",
+    "classNames": [
+      "async-img-load",
+      "three-up-item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Previous Story",
+    "innerHrefTagText": "",
+    "classNames": [
+      "async-img-load",
+      "previous"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Next Story",
+    "innerHrefTagText": "",
+    "classNames": [
+      "next",
+      "async-img-load",
+      "previous"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "THE BLOG",
+    "innerHrefTagText": "THE BLOG",
+    "classNames": [
+      "next",
+      "previous",
+      "blog-banner",
+      "title",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Featuring fresh takes and real-time analysis from HuffPost\u0027s signature lineup of contributors",
+    "innerHrefTagText": "",
+    "classNames": [
+      "next",
+      "blog-banner",
+      "title",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Hot on the Blog",
+    "innerHrefTagText": "",
+    "classNames": [
+      "hot-on-blog",
+      "blog-banner",
+      "title",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Will Young",
+    "innerHrefTagText": "Will Young",
+    "classNames": [
+      "blog_banner_bloggers",
+      "hot-on-blog",
+      "blog-banner",
+      "title",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Paul OGrady",
+    "innerHrefTagText": "Paul OGrady",
+    "classNames": [
+      "blog_banner_bloggers",
+      "hot-on-blog",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Kate Allen",
+    "innerHrefTagText": "Kate Allen",
+    "classNames": [
+      "blog_banner_bloggers",
+      "entry",
+      "widetitle",
+      "author",
+      "name",
+      "fn",
+      "main",
+      "vcard",
+      "blog",
+      "byline",
+      "group",
+      "info"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Become a fan",
+    "innerHrefTagText": "Become a fan",
+    "classNames": [
+      "entry",
+      "widetitle",
+      "fan",
+      "author",
+      "name",
+      "fn",
+      "vcard",
+      "blog",
+      "byline",
+      "group",
+      "info"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Director of Amnesty International UK",
+    "innerHrefTagText": "",
+    "classNames": [
+      "fan",
+      "author",
+      "name",
+      "fn",
+      "vcard",
+      "blog",
+      "byline",
+      "group",
+      "info",
+      "teaser"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email",
+    "innerHrefTagText": "Email",
+    "classNames": [
+      "fan",
+      "social",
+      "name",
+      "fn",
+      "vcard",
+      "byline",
+      "email",
+      "group",
+      "info",
+      "teaser"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The USA Needs to Wake Up From Its Nightmarish Love Affair With the Death Penalty",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "fb-tooltip",
+      "like",
+      "facebook",
+      "tweet",
+      "twitter-anywhere-user",
+      "title",
+      "twitter-tooltip",
+      "fb-tooltip-284247"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Posted:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "times",
+      "fb-tooltip",
+      "like",
+      "facebook",
+      "twitter-anywhere-user",
+      "title",
+      "headline",
+      "twitter-tooltip",
+      "fb-tooltip-284247",
+      "group",
+      "posted"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "06/04/2016 00:00 BST",
+    "innerHrefTagText": "",
+    "classNames": [
+      "times",
+      "fb-tooltip",
+      "like",
+      "facebook",
+      "twitter-anywhere-user",
+      "title",
+      "headline",
+      "twitter-tooltip",
+      "fb-tooltip-284247",
+      "group",
+      "posted"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Updated:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "times",
+      "fb-tooltip",
+      "title",
+      "headline",
+      "updated",
+      "fb-tooltip-284247",
+      "group",
+      "posted"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "06/04/2016 00:59 BST",
+    "innerHrefTagText": "",
+    "classNames": [
+      "times",
+      "fb-tooltip",
+      "title",
+      "headline",
+      "updated",
+      "fb-tooltip-284247",
+      "group",
+      "posted"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share",
+    "innerHrefTagText": "Share",
+    "classNames": [
+      "embedded-image",
+      "facebook",
+      "column",
+      "social-bar",
+      "facebook_like",
+      "fb-like",
+      "label",
+      "main-visual",
+      "shares",
+      "entry",
+      "facebook-share-btn",
+      "social_badges_en",
+      "floating",
+      "social-fb-share-btn",
+      "share",
+      "VERB_LIKE",
+      "social-badge",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tweet",
+    "innerHrefTagText": "Tweet",
+    "classNames": [
+      "facebook",
+      "count",
+      "social-bar",
+      "twitter-tweet-btn",
+      "social-twitter-btn",
+      "facebook_like",
+      "fb-like",
+      "label",
+      "shares",
+      "facebook-share-btn",
+      "social_badges_en",
+      "facebook-share-count",
+      "twitter",
+      "floating",
+      "social-fb-share-btn",
+      "share",
+      "VERB_LIKE",
+      "social-badge",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email",
+    "innerHrefTagText": "Email",
+    "classNames": [
+      "googleshare",
+      "count",
+      "twitter-tweet-btn",
+      "social-twitter-btn",
+      "label",
+      "facebook-share-btn",
+      "g-plus",
+      "facebook-share-count",
+      "twitter",
+      "hp-email-btn",
+      "social-fb-share-btn",
+      "share",
+      "social-email-btn",
+      "twitter-tweet-count",
+      "email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Comment",
+    "innerHrefTagText": "",
+    "classNames": [
+      "googleshare",
+      "count",
+      "twitter-tweet-btn",
+      "social-twitter-btn",
+      "label",
+      "g-plus",
+      "hp-email-btn",
+      "share",
+      "social-email-btn",
+      "comment",
+      "hp-email-count",
+      "twitter-tweet-count",
+      "email",
+      "social-comment-btn",
+      "hp-comment-btn"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "stumble",
+    "innerHrefTagText": "stumble",
+    "classNames": [
+      "chicklets",
+      "hidden",
+      "hp-comment-count",
+      "stumble-upon",
+      "count",
+      "label",
+      "share",
+      "comment",
+      "hp-email-count",
+      "social-comment-btn",
+      "hp-comment-btn",
+      "group",
+      "googleplus"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "reddit",
+    "innerHrefTagText": "reddit",
+    "classNames": [
+      "chicklets",
+      "hidden",
+      "hp-comment-count",
+      "stumble-upon",
+      "count",
+      "reddit",
+      "label",
+      "hp-comment-btn",
+      "group",
+      "googleplus"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tiredness kills, so the motorway signs say. In certain criminal trials in the USA, tiredness can also prove fatal. When Kenneth Fults",
+    "innerHrefTagText": "Fults",
+    "classNames": [
+      "ad_share_box",
+      "padding_left_10",
+      "float_right",
+      "float_left",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "stood trial for murder in the state of Georgia in 1996, his state-appointed attorney Johnny Mostiler was seen to fall asleep on numerous occasions in the courtroom. One of the jurors later said this in a sworn affidavit:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ad_share_box",
+      "padding_left_10",
+      "float_right",
+      "float_left",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"It was clear to me during Mr Fults\u0027s trial that his lawyer, Mr Mostiler, did not provide any real representation of him. He just didn\u0027t really do anything at all, and several times I saw him sleeping during the trial. His head would be bowed down and he wasn\u0027t doing anything like writing. In fact, I never saw him write anything down or take any kind of notes. I was not surprised by Mostiler sleeping, because I also sat on another jury where Mostiler was the defense lawyer and I saw him sleeping during that trial too.\"",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ad_share_box",
+      "padding_left_10",
+      "float_right",
+      "float_left",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Another of the former jurors said largely the same thing:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ad_share_box",
+      "float_left",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"Mr Fults\u0027s lawyer, Mr Mostiler, did not seem to care about Mr Fults or his case ... He was uninterested in what was happening, and it seemed like something was wrong with him. I saw him fall asleep repeatedly during the trial, and he would wake up, startled, when it was his turn to examine witnesses. I saw him sleeping off and on throughout the whole trial. It really bothered me because here there was a man on trial for his life and his lawyer didn\u0027t even care enough to stay awake, much less properly cross-examine the witnesses ...\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ad_share_box",
+      "float_left"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Yet, all these years later, Fults - who was found guilty and sentenced to death - is now set to be executed in Georgia lethal chamber. His execution is set for this coming Tuesday.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ad_share_box"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "But sleeping on the job isn\u0027t even the half of it. Fults, an African American man, was found guilty of the murder of a white woman called Cathy Bounds. In Georgia, a deep South state with a long history of racism, one where the Ku Klux Klan is still extremely active",
+    "innerHrefTagText": "Ku Klux Klan is still extremely active",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": ", this ought to have rung alarm bells. Instead, the jury included at least one member who later gloatingly said",
+    "innerHrefTagText": "who later gloatingly said",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": ":",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"I don\u0027t know if he ever killed anybody, but that nigger got just what should have happened. Once he pled guilty, I knew I would vote for the death penalty because that\u0027s what the nigger deserved.\"",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "And not only that, there are even reports that Fults\u0027 own attorney Johnny Mostiler, who is now deceased, was also a frequent user of the N-word.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Meanwhile, as with so many capital trials in the USA, especially where people from deprived socio-economic backgrounds are on trial",
+    "innerHrefTagText": "deprived socio-economic backgrounds are on trial",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": ", Fults\u0027 lawyer seems to have made only a token effort to present the full circumstances of his client\u0027s case. Once again former jurors complained about the conduct of the defence case. Mostiler hadn\u0027t told them about how Fults\u0027 childhood was scarred by neglect and abandonment, having been born to a 16-year-old mother who later became addicted to crack cocaine. And they didn\u0027t hear that Tufts grew up with an intellectual disability (he\u0027s been assessed as having an IQ of only 72).",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Yet in the long run none of this has mattered. The execution juggernaut has been set rolling, and it\u0027s very hard to stop it. Despite the patent unjustness of his conviction, Tufts\u0027 appeals have either failed on \"procedural\" grounds or because of an institutional reluctance on the part of federal courts to rule against state-level courts. As the campaigner Helen Prejean has long noted",
+    "innerHrefTagText": "Helen Prejean has long noted",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": ", 95% of justice in US death penalty cases occurs at the original trial, badly conducted or not. Lose that and doors start closing rapidly. Tufts may die next week because of the scandalous rigidity of a US justice system that is often incapable of righting a blatant wrong.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It\u0027s a dreadful miscarriage of justice, but some observers will insist that the iniquity of Kenneth Fults\u0027 case is rare and claim that a \"reformed\" justice system can safely operate capital trials in the USA. To this I\u0027d say: stop dreaming. One hundred and fifty-six people have been exonerated",
+    "innerHrefTagText": "exonerated",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "from various death row facilities in the USA in the past four decades. And these are just the ones we know about. How many other victims of miscarriages went to their deaths?",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Serious crimes deserve serious sentences, but the premeditated cruelty of the death penalty is not the answer. Capital punishment has no proven deterrence value, it\u0027s prone to terrible error, it\u0027s often (as in Fults\u0027 case) applied following shoddy trials and sometimes in blatantly political ways, it\u0027s irreversible if implemented, and it inflicts mental torment on the condemned as well as physical torment in the - not-infrequent - event of the actual execution being botched. The USA executed 28 people last year, fewer than at any time in a quarter of century. It\u0027s the right direction of travel, but we need to see the USA getting to a point of arrival (abolition, in line with a majority of the world) far quicker. Like tiredness, speed kills on motorways; but it\u0027s the slow pace of change on the death penalty in the USA that\u0027s still killing people like Kenneth Fults.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "*Amnesty has just published new figures",
+    "innerHrefTagText": "new figures",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "for the death penalty in 2015 showing a \"profoundly disturbing\" 54% increase in executions compared to the previous year",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "*Amnesty\u0027s new appeal for Kenneth Fults is here",
+    "innerHrefTagText": "here",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Follow Kate Allen on Twitter:\n            www.twitter.com/kateallenai",
+    "innerHrefTagText": "www.twitter.com/kateallenai",
+    "classNames": [
+      "follow_twt_author"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bottom-tags",
+      "follow_twt_author",
+      "follow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Death Penalty",
+    "innerHrefTagText": "Death Penalty",
+    "classNames": [
+      "bottom-tags",
+      "follow_twt_author",
+      "follow",
+      "entrytag",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US Death Penalty",
+    "innerHrefTagText": "US Death Penalty",
+    "classNames": [
+      "bottom-tags",
+      "follow_twt_author",
+      "follow",
+      "entrytag",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK NEWS",
+    "innerHrefTagText": "UK NEWS",
+    "classNames": [
+      "bottom-tags",
+      "follow",
+      "entrytag",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK Impact",
+    "innerHrefTagText": "UK Impact",
+    "classNames": [
+      "entrytag",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Kenneth Fults",
+    "innerHrefTagText": "Kenneth Fults",
+    "classNames": [
+      "entrytag"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Amnesty International",
+    "innerHrefTagText": "Amnesty International",
+    "classNames": [
+      "entrytag"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Kate Allen",
+    "innerHrefTagText": "Kate Allen",
+    "classNames": [
+      "entrytag"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Most Popular Videos",
+    "innerHrefTagText": "",
+    "classNames": [
+      "grvPersonalizedRecos",
+      "grv_widget_river",
+      "grv_header",
+      "grv_stories_header",
+      "grv_untabbed",
+      "grv-personalization-4623",
+      "margin_10_0",
+      "entrytag",
+      "ad_spot"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "by Gravity",
+    "innerHrefTagText": "by Gravity",
+    "classNames": [
+      "grvPersonalizedRecos",
+      "grv_widget_river",
+      "grv_header",
+      "grv_stories_header",
+      "grv_personalization",
+      "grv_untabbed",
+      "grv_badge_inner",
+      "grv-personalization-4623",
+      "margin_10_0",
+      "entrytag",
+      "ad_spot"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": " ",
+    "innerHrefTagText": "",
+    "classNames": [
+      "clear"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Click here to view Conversations",
+    "innerHrefTagText": "",
+    "classNames": [
+      "clear"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Conversations",
+    "innerHrefTagText": "",
+    "classNames": [
+      "related",
+      "clear",
+      "text"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Suggested For You",
+    "innerHrefTagText": "",
+    "classNames": [
+      "mp_title",
+      "most-popular",
+      "ad_wrapper_top",
+      "ad_spot"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "FOLLOW HUFFPOST",
+    "innerHrefTagText": "",
+    "classNames": [
+      "mp_title",
+      "mp_cycle",
+      "follow-huffpost",
+      "ad_spot"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email",
+    "innerHrefTagText": "",
+    "classNames": [
+      "untouched",
+      "mp_title",
+      "mp_cycle",
+      "follow-links",
+      "follow-huffpost",
+      "email",
+      "selected",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email Address",
+    "innerHrefTagText": "",
+    "classNames": [
+      "untouched",
+      "subscribe",
+      "mp_cycle",
+      "follow-links",
+      "follow-huffpost",
+      "email",
+      "selected",
+      "content",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Please check the checkbox to indicate your consent",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "untouched",
+      "signup_error",
+      "email_subscribe_check",
+      "subscribe",
+      "right_rail_signup",
+      "text",
+      "follow-links",
+      "email",
+      "selected",
+      "content",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Options",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "signup_error",
+      "email_subscribe_check",
+      "subscribe",
+      "right_rail_signup",
+      "options",
+      "text",
+      "email",
+      "selected",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HuffPost Daily Brief",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "signup_error",
+      "item",
+      "email_subscribe_check",
+      "subscribe",
+      "right_rail_signup",
+      "options",
+      "text",
+      "list",
+      "content",
+      "email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "signup_error",
+      "item",
+      "email_subscribe_check",
+      "right_rail_signup",
+      "options",
+      "text",
+      "list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get top stories and blog posts emailed to me each day..",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "instructions",
+      "signup_error",
+      "item",
+      "right_rail_signup",
+      "options",
+      "list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Facebook",
+    "innerHrefTagText": "",
+    "classNames": [
+      "instructions",
+      "item",
+      "facebook",
+      "list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HuffPost",
+    "innerHrefTagText": "",
+    "classNames": [
+      "instructions",
+      "item",
+      "facebook",
+      "name",
+      "list",
+      "content",
+      "off",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "share-button",
+      "name",
+      "fb-like",
+      "content",
+      "off",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HuffPost",
+    "innerHrefTagText": "",
+    "classNames": [
+      "twitter",
+      "share-button",
+      "name",
+      "fb-like",
+      "content",
+      "off",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Follow",
+    "innerHrefTagText": "Follow",
+    "classNames": [
+      "twitter",
+      "share-button",
+      "twitter-follow-button",
+      "name",
+      "fb-like",
+      "content",
+      "off",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Google Plus",
+    "innerHrefTagText": "",
+    "classNames": [
+      "share-button",
+      "twitter-follow-button",
+      "name",
+      "google",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HuffPost",
+    "innerHrefTagText": "",
+    "classNames": [
+      "share-button",
+      "twitter-follow-button",
+      "name",
+      "google",
+      "content",
+      "off",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "RSS",
+    "innerHrefTagText": "",
+    "classNames": [
+      "rss",
+      "share-button",
+      "name",
+      "content",
+      "off",
+      "no-ad",
+      "group",
+      "g-plusone"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Huffington Post UK",
+    "innerHrefTagText": "The Huffington Post UK",
+    "classNames": [
+      "rss",
+      "share-button",
+      "name",
+      "sprite",
+      "content",
+      "off",
+      "no-ad",
+      "group",
+      "g-plusone"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All RSS / Feeds",
+    "innerHrefTagText": "All RSS / Feeds",
+    "classNames": [
+      "rss",
+      "share-button",
+      "more",
+      "name",
+      "sprite",
+      "no-ad",
+      "content",
+      "off",
+      "group",
+      "g-plusone"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Phone",
+    "innerHrefTagText": "",
+    "classNames": [
+      "phone",
+      "more",
+      "name",
+      "sprite",
+      "content",
+      "off",
+      "no-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Available on the App Store",
+    "innerHrefTagText": "Available on the App Store",
+    "classNames": [
+      "phone",
+      "more",
+      "name",
+      "sprite",
+      "ios",
+      "content",
+      "off",
+      "no-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Android App on Google Play",
+    "innerHrefTagText": "Android App on Google Play",
+    "classNames": [
+      "phone",
+      "more",
+      "android",
+      "name",
+      "sprite",
+      "ios",
+      "no-ad",
+      "content",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get it at Blackberry App World",
+    "innerHrefTagText": "Get it at Blackberry App World",
+    "classNames": [
+      "phone",
+      "blackberry",
+      "more",
+      "android",
+      "sprite",
+      "ios",
+      "no-ad",
+      "content",
+      "off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Mobile App for iPhone / iPad",
+    "innerHrefTagText": "Mobile App for iPhone / iPad",
+    "classNames": [
+      "search",
+      "footer",
+      "links",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Mobile App for Android",
+    "innerHrefTagText": "Mobile App for Android",
+    "classNames": [
+      "search",
+      "links",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Advertise",
+    "innerHrefTagText": "Advertise",
+    "classNames": [
+      "row1",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Log In",
+    "innerHrefTagText": "Log In",
+    "classNames": [
+      "row1",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make HuffPost your Home Page",
+    "innerHrefTagText": "Make HuffPost your Home Page",
+    "classNames": [
+      "row1",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "RSS",
+    "innerHrefTagText": "RSS",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Careers",
+    "innerHrefTagText": "Careers",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "FAQ",
+    "innerHrefTagText": "FAQ",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "User Agreement",
+    "innerHrefTagText": "User Agreement",
+    "classNames": [
+      "row2",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Privacy",
+    "innerHrefTagText": "Privacy",
+    "classNames": [
+      "row2",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cookie Policy",
+    "innerHrefTagText": "Cookie Policy",
+    "classNames": [
+      "row2",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Comment Policy",
+    "innerHrefTagText": "Comment Policy",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "About Us",
+    "innerHrefTagText": "About Us",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "About Our Ads",
+    "innerHrefTagText": "About Our Ads",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact Us",
+    "innerHrefTagText": "Contact Us",
+    "classNames": [
+      "row3",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Archive",
+    "innerHrefTagText": "Archive",
+    "classNames": [
+      "row3",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Huffington Post UK is provided by AOL (UK) Limited. © 2016 AOL (UK) Limited its affiliates and licensors",
+    "innerHrefTagText": "",
+    "classNames": [
+      "copyright",
+      "legal"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\"The Huffington Post\" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved. 2016©",
+    "innerHrefTagText": "",
+    "classNames": [
+      "copyright",
+      "legal",
+      "trademark"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Part of",
+    "innerHrefTagText": "",
+    "classNames": [
+      "copyright",
+      "legal",
+      "trademark",
+      "part-of"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "HPMG News",
+    "innerHrefTagText": "",
+    "classNames": [
+      "copyright",
+      "part-of-group",
+      "legal",
+      "trademark",
+      "part-of"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Use this form to alert a HuffPost editor about a factual or typographical error in this story.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sbm_modal",
+      "sbm_heading",
+      "social_modal_content",
+      "hd_title",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Notify message",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sbm_modal",
+      "sbm_heading",
+      "social_modal_content",
+      "hd_title",
+      "sbm_notify",
+      "content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "* Required",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sbm_modal",
+      "sbm_heading",
+      "social_modal_content",
+      "hd_title",
+      "sbm_notify",
+      "content",
+      "required"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "*",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ar_right",
+      "clearfix",
+      "sbm_modal",
+      "sbm_heading",
+      "social_modal_content",
+      "sbm_asterisk",
+      "hd_title",
+      "sbm_notify",
+      "required",
+      "smb-line",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "*",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ar_right",
+      "clearfix",
+      "sbm_heading",
+      "sbm_asterisk",
+      "bordered",
+      "hd_title",
+      "sbm_notify",
+      "required",
+      "smb-line",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "*",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ar_right",
+      "clearfix",
+      "sbm_l",
+      "sbm_asterisk",
+      "bordered",
+      "submission_name",
+      "sbm_fc",
+      "error",
+      "nomargin",
+      "smb-line",
+      "submission_email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What kind of error is this?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "ar_right",
+      "clearfix",
+      "sbm_l",
+      "sbm_asterisk",
+      "bordered",
+      "submission_name",
+      "sbm_fc",
+      "error",
+      "nomargin",
+      "smb-line",
+      "submission_email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "*",
+    "innerHrefTagText": "",
+    "classNames": [
+      "clearfix",
+      "sbm_l",
+      "submission_error_kind",
+      "float_left",
+      "sbm_asterisk",
+      "sbm_fc",
+      "error",
+      "smb-line"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What is the correction?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "clearfix",
+      "sbm_l",
+      "submission_error_kind",
+      "float_left",
+      "sbm_asterisk",
+      "sbm_fc",
+      "error",
+      "smb-line"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "0 count",
+    "innerHrefTagText": "",
+    "classNames": [
+      "clearfix",
+      "sbm_counter",
+      "sbm_l",
+      "submission_error_kind",
+      "float_left",
+      "sbm_asterisk",
+      "sbm_fc",
+      "error",
+      "smb-line"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Describe the error here (1,000 character limit)",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sbm_l",
+      "float_left",
+      "sbm_asterisk",
+      "sbm_fc",
+      "error",
+      "sbm_textarea",
+      "clear_first",
+      "smb-line",
+      "clearfix",
+      "sbm_r",
+      "arial_12",
+      "sbm_counter",
+      "submission_error_kind",
+      "basic"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "*",
+    "innerHrefTagText": "",
+    "classNames": [
+      "small",
+      "sbm_l",
+      "float_left",
+      "sbm_asterisk",
+      "bottom_block",
+      "sbm_textarea",
+      "error",
+      "clear_first",
+      "smb-line",
+      "sbm_r",
+      "arial_12",
+      "clearfix",
+      "sbm_counter",
+      "submission_body",
+      "basic",
+      "smb_note"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Type the words below so we know you are not a cyborg",
+    "innerHrefTagText": "",
+    "classNames": [
+      "small",
+      "sbm_asterisk",
+      "bottom_block",
+      "sbm_textarea",
+      "error",
+      "clear_first",
+      "smb-line",
+      "sbm_r",
+      "arial_12",
+      "clearfix",
+      "sbm_counter",
+      "submission_body",
+      "basic",
+      "smb_note"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sign me up for The Huffington Post\u0027s Daily Brief",
+    "innerHrefTagText": "",
+    "classNames": [
+      "small",
+      "recaptcha_isnot_showing_audio",
+      "sbm_asterisk",
+      "float_left",
+      "bottom_block",
+      "sbm_textarea",
+      "error",
+      "smb-line",
+      "sbm_r",
+      "arial_12",
+      "clearfix",
+      "submission_body",
+      "recaptcha_nothad_incorrect_sol",
+      "sbm_checkbox",
+      "basic",
+      "smb_note"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Thanks for your report!",
+    "innerHrefTagText": "",
+    "classNames": [
+      "button",
+      "sbm_send",
+      "sbm_thanks",
+      "centered",
+      "submission_ajax_loader",
+      "light-blue",
+      "double-extra-large"
+    ]
+  }
+]

@@ -1,0 +1,5730 @@
+[
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility links",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-pri",
+      "orb-nav-empty",
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-white",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section",
+      "b-header--white--black"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": [
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC iD",
+    "innerHrefTagText": "BBC iD",
+    "classNames": [
+      "orb-nav-focus",
+      "orb-skip-links",
+      "orb-nav-section",
+      "orb-nav-id"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Notifications",
+    "innerHrefTagText": "Notifications",
+    "classNames": [
+      "js-notification-link",
+      "orb-nav-focus",
+      "animated",
+      "orb-nav-section",
+      "orb-nav-id",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav",
+      "js-notification-link",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "animated",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "notification-link--triangle",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Menu",
+    "innerHrefTagText": "Menu",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-icon-arrow",
+      "orb-w",
+      "orb-icon",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Search the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-search",
+      "orb-icon-arrow",
+      "orb-icon",
+      "b-f",
+      "orb-nav-section",
+      "orb-nav-oldsearch"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC Sport",
+    "innerHrefTagText": "BBC Sport",
+    "classNames": [
+      "",
+      "gel-wrap",
+      "vh",
+      "clearfix",
+      "nav-top",
+      "sport-wrap",
+      "global-header",
+      "global-header__logo"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "gel-wrap",
+      "vh",
+      "global-header__logo-img",
+      "global-header",
+      "global-header__logo",
+      "global-header__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Sport",
+    "innerHrefTagText": "",
+    "classNames": [
+      "nav-header__sponsorship",
+      "ico",
+      "global-header__all-sports-text",
+      "bbccom_slot",
+      "bbccom_advert",
+      "global-header__burger",
+      "global-header__section",
+      "global-header__all-sports-button",
+      "ico-burger"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Sport",
+    "innerHrefTagText": "",
+    "classNames": [
+      "primary-nav",
+      "",
+      "primary-nav__item--pinned",
+      "gel-wrap",
+      "primary-nav__link",
+      "global-header__burger",
+      "primary-nav__item--with-icon",
+      "primary-nav__item-icon",
+      "ico",
+      "global-header__all-sports-text",
+      "primary-nav__item--all-sports",
+      "primary-nav__link-text",
+      "primary-nav__item",
+      "primary-nav__items",
+      "global-header__all-sports-button",
+      "ico-burger"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "My Sport",
+    "innerHrefTagText": "My Sport",
+    "classNames": [
+      "primary-nav",
+      "",
+      "primary-nav__item--pinned",
+      "gel-wrap",
+      "primary-nav__link",
+      "primary-nav__item--with-icon",
+      "primary-nav__item-icon",
+      "global-header__all-sports-text",
+      "primary-nav__item--all-sports",
+      "ico",
+      "primary-nav__link-text",
+      "primary-nav__item",
+      "primary-nav__items",
+      "ico-burger"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Home",
+    "innerHrefTagText": "Home",
+    "classNames": [
+      "",
+      "primary-nav__item--pinned",
+      "primary-nav__item-icon",
+      "primary-nav__item--all-sports",
+      "ico",
+      "primary-nav__link-text",
+      "primary-nav__item--first",
+      "primary-nav__link",
+      "primary-nav__item",
+      "primary-nav__item--with-icon",
+      "primary-nav__items",
+      "ico-burger"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "primary-nav__item--pinned",
+      "primary-nav__item-icon",
+      "ico",
+      "primary-nav__link-text",
+      "primary-nav__item--first",
+      "primary-nav__item--active",
+      "primary-nav__link",
+      "primary-nav__item",
+      "ico-burger",
+      "primary-nav__item--full-highlight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Formula 1",
+    "innerHrefTagText": "Formula 1",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__item--first",
+      "primary-nav__item--active",
+      "primary-nav__link",
+      "primary-nav__item",
+      "primary-nav__item--full-highlight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cricket",
+    "innerHrefTagText": "Cricket",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__item--active",
+      "primary-nav__link",
+      "primary-nav__item",
+      "primary-nav__item--full-highlight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby U",
+    "innerHrefTagText": "Rugby U",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__link",
+      "primary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby L",
+    "innerHrefTagText": "Rugby L",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__link",
+      "primary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tennis",
+    "innerHrefTagText": "Tennis",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__link",
+      "primary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Golf",
+    "innerHrefTagText": "Golf",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__link",
+      "primary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Athletics",
+    "innerHrefTagText": "Athletics",
+    "classNames": [
+      "",
+      "primary-nav__link-text",
+      "primary-nav__link",
+      "primary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC Sport Home",
+    "innerHrefTagText": "BBC Sport Home",
+    "classNames": [
+      "",
+      "gel-wrap",
+      "primary-nav-flyout__section--contains-only-primaries",
+      "primary-nav__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout",
+      "primary-nav-flyout__section--open",
+      "primary-nav-flyout__items",
+      "clearfix",
+      "primary-nav-flyout__link-text",
+      "primary-nav__link-text",
+      "primary-nav-flyout__relative-wrapper",
+      "primary-nav__item",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper",
+      "primary-nav-flyout__wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "gel-wrap",
+      "primary-nav-flyout__item--active",
+      "primary-nav-flyout__section--contains-only-primaries",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout",
+      "primary-nav-flyout__section--open",
+      "primary-nav-flyout__items",
+      "clearfix",
+      "primary-nav-flyout__link-text",
+      "primary-nav__link-text",
+      "primary-nav-flyout__relative-wrapper",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper",
+      "primary-nav-flyout__wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Formula 1",
+    "innerHrefTagText": "Formula 1",
+    "classNames": [
+      "",
+      "primary-nav-flyout__section--open",
+      "primary-nav-flyout__items",
+      "clearfix",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__item--active",
+      "primary-nav-flyout__section--contains-only-primaries",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper",
+      "primary-nav-flyout__wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cricket",
+    "innerHrefTagText": "Cricket",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__item--active",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby Union",
+    "innerHrefTagText": "Rugby Union",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby League",
+    "innerHrefTagText": "Rugby League",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tennis",
+    "innerHrefTagText": "Tennis",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Golf",
+    "innerHrefTagText": "Golf",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Athletics",
+    "innerHrefTagText": "Athletics",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "My Sport",
+    "innerHrefTagText": "My Sport",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "A-Z Sports",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "primary-nav-flyout__section--main-section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "American Football",
+    "innerHrefTagText": "American Football",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__section--main-section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Athletics",
+    "innerHrefTagText": "Athletics",
+    "classNames": [
+      "",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__section--main-section",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BodyPositive",
+    "innerHrefTagText": "BodyPositive",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Boxing",
+    "innerHrefTagText": "Boxing",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cricket",
+    "innerHrefTagText": "Cricket",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cycling",
+    "innerHrefTagText": "Cycling",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Disability Sport",
+    "innerHrefTagText": "Disability Sport",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Formula 1",
+    "innerHrefTagText": "Formula 1",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Gaelic Games",
+    "innerHrefTagText": "Gaelic Games",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get Inspired",
+    "innerHrefTagText": "Get Inspired",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Golf",
+    "innerHrefTagText": "Golf",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Horse Racing",
+    "innerHrefTagText": "Horse Racing",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Motorsport",
+    "innerHrefTagText": "Motorsport",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Olympic Sports",
+    "innerHrefTagText": "Olympic Sports",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby League",
+    "innerHrefTagText": "Rugby League",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rugby Union",
+    "innerHrefTagText": "Rugby Union",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Snooker",
+    "innerHrefTagText": "Snooker",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Swimming",
+    "innerHrefTagText": "Swimming",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tennis",
+    "innerHrefTagText": "Tennis",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Winter Sports",
+    "innerHrefTagText": "Winter Sports",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Full Sports A-Z",
+    "innerHrefTagText": "Full Sports A-Z",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Events",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Euro 2016",
+    "innerHrefTagText": "Euro 2016",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Rio 2016",
+    "innerHrefTagText": "Rio 2016",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Around the UK",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Scotland",
+    "innerHrefTagText": "Scotland",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wales",
+    "innerHrefTagText": "Wales",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "ico",
+      "ico-chevron-down",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Northern Ireland",
+    "innerHrefTagText": "Northern Ireland",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Programmes",
+    "innerHrefTagText": "Programmes",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-right-thin",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__chevron-right",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title--link",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Match of the Day",
+    "innerHrefTagText": "Match of the Day",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-right-thin",
+      "ico-chevron-down",
+      "primary-nav-flyout__chevron-right",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title--link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "5 Live Sport",
+    "innerHrefTagText": "5 Live Sport",
+    "classNames": [
+      "",
+      "primary-nav-flyout__section",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__section-title",
+      "ico",
+      "ico-chevron-right-thin",
+      "ico-chevron-down",
+      "primary-nav-flyout__chevron-right",
+      "primary-nav-flyout__section-title--link",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__section-title-text",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sports Personality",
+    "innerHrefTagText": "Sports Personality",
+    "classNames": [
+      "",
+      "primary-nav-flyout__items",
+      "primary-nav-flyout__link-text",
+      "ico",
+      "ico-chevron-right-thin",
+      "ico-chevron-down",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__chevron-right",
+      "primary-nav-flyout__chevron",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport on the BBC",
+    "innerHrefTagText": "Sport on the BBC",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Programmes",
+    "innerHrefTagText": "All Programmes",
+    "classNames": [
+      "",
+      "primary-nav-flyout__link-text",
+      "primary-nav-flyout__link",
+      "primary-nav-flyout__item--section-title-replica-link",
+      "primary-nav-flyout__item",
+      "primary-nav-flyout__link-wrapper"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "gel-wrap",
+      "secondary-nav__items--not-shortcuts",
+      "secondary-nav__item--dynamic-crumb",
+      "secondary-nav__item--crumb",
+      "secondary-nav__items",
+      "secondary-nav__item--dynamic-crumb--styled-inline",
+      "primary-nav-flyout__link",
+      "secondary-nav--has-shortcuts-or-items-or-more-than-one-crumb",
+      "secondary-nav__item",
+      "secondary-nav__items-wrap",
+      "primary-nav-flyout__link-text",
+      "secondary-nav__link",
+      "secondary-nav",
+      "secondary-nav__items--more-button-space-saver",
+      "primary-nav-flyout__item--section-title-replica-link",
+      "primary-nav-flyout__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "European Football",
+    "innerHrefTagText": "European Football",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "gel-wrap",
+      "secondary-nav__items--not-shortcuts",
+      "secondary-nav__item--dynamic-crumb",
+      "secondary-nav__item--crumb",
+      "secondary-nav__items",
+      "secondary-nav__item--dynamic-crumb--styled-inline",
+      "secondary-nav--has-shortcuts-or-items-or-more-than-one-crumb",
+      "secondary-nav__item",
+      "secondary-nav__items-wrap",
+      "secondary-nav__link",
+      "secondary-nav",
+      "secondary-nav__items--more-button-space-saver",
+      "secondary-nav__item--lowest-crumb"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Results",
+    "innerHrefTagText": "Results",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__items--not-shortcuts",
+      "secondary-nav__item--dynamic-crumb",
+      "secondary-nav__item--crumb",
+      "secondary-nav__chevron",
+      "secondary-nav__items",
+      "secondary-nav__item--first-non-crumb",
+      "secondary-nav__item--dynamic-crumb--styled-inline",
+      "secondary-nav__item",
+      "secondary-nav__link",
+      "ico",
+      "ico-chevron-down",
+      "secondary-nav__items--more-button-space-saver",
+      "secondary-nav__item--lowest-crumb"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fixtures",
+    "innerHrefTagText": "Fixtures",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "ico",
+      "ico-chevron-down",
+      "secondary-nav__item--crumb",
+      "secondary-nav__chevron",
+      "secondary-nav__item--first-non-crumb",
+      "secondary-nav__item--lowest-crumb",
+      "secondary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tables",
+    "innerHrefTagText": "Tables",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "ico",
+      "ico-chevron-down",
+      "secondary-nav__chevron",
+      "secondary-nav__item--first-non-crumb",
+      "secondary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Champions League",
+    "innerHrefTagText": "Champions League",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "secondary-nav__item--first-non-crumb",
+      "secondary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Europa League",
+    "innerHrefTagText": "Europa League",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "secondary-nav__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Live Scores",
+    "innerHrefTagText": "Live Scores",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "secondary-nav__items",
+      "secondary-nav__items--shortcuts",
+      "secondary-nav__item",
+      "secondary-nav__item--shortcut"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Teams",
+    "innerHrefTagText": "All Teams",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "secondary-nav__items",
+      "secondary-nav__items--shortcuts",
+      "secondary-nav__item",
+      "secondary-nav__item--shortcut"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Leagues \u0026 Cups",
+    "innerHrefTagText": "Leagues \u0026 Cups",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav__link",
+      "secondary-nav__items",
+      "secondary-nav__items--shortcuts",
+      "secondary-nav__item",
+      "secondary-nav__item--shortcut"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Results",
+    "innerHrefTagText": "Results",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__relative-wrapper",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav__item",
+      "secondary-nav__item--shortcut",
+      "secondary-nav-flyout__item",
+      "secondary-nav__link",
+      "clearfix",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fixtures",
+    "innerHrefTagText": "Fixtures",
+    "classNames": [
+      "",
+      "secondary-nav__link-text",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item",
+      "secondary-nav__link",
+      "clearfix",
+      "secondary-nav-flyout__relative-wrapper",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tables",
+    "innerHrefTagText": "Tables",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item",
+      "clearfix",
+      "secondary-nav-flyout__relative-wrapper",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Champions League",
+    "innerHrefTagText": "Champions League",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Europa League",
+    "innerHrefTagText": "Europa League",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "European Football Home",
+    "innerHrefTagText": "European Football Home",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More from Football",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__header",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__keyline",
+      "secondary-nav-flyout__item-link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Live Scores",
+    "innerHrefTagText": "Live Scores",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__header",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__keyline",
+      "secondary-nav-flyout__column",
+      "clearfix",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Teams",
+    "innerHrefTagText": "All Teams",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__header",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__keyline",
+      "secondary-nav-flyout__column",
+      "clearfix",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Leagues \u0026 Cups",
+    "innerHrefTagText": "Leagues \u0026 Cups",
+    "classNames": [
+      "secondary-nav-flyout__header",
+      "",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item",
+      "clearfix",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout__column--left",
+      "secondary-nav-flyout__columns"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football Home",
+    "innerHrefTagText": "Football Home",
+    "classNames": [
+      "",
+      "secondary-nav-flyout__column",
+      "secondary-nav-flyout__item",
+      "secondary-nav-flyout__item-link",
+      "secondary-nav-flyout__items",
+      "secondary-nav-flyout__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Panama Papers: Uefa offices searched by Swiss police",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gel-wrap",
+      "gel-2/3@l",
+      "main__slice",
+      "bbccom_slot",
+      "gel-layout__item",
+      "bbccom_advert",
+      "story-headline",
+      "component--default",
+      "component",
+      "gel-trafalgar-bold",
+      "spacing-v1",
+      "gel-layout",
+      "main__slice--full-width",
+      "story"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gel-wrap",
+      "story-info__item",
+      "story__byline",
+      "story-info",
+      "story-headline",
+      "story__info",
+      "gel-brevier",
+      "gel-trafalgar-bold",
+      "gel-layout",
+      "gelicon",
+      "byline",
+      "timestamp",
+      "gel-flag__body",
+      "list-inline--divided",
+      "gel-2/3@l",
+      "gelicon--duration",
+      "gel-layout__item",
+      "gel-flag",
+      "gel-long-primer",
+      "story-info__item--time",
+      "abbr-on",
+      "gel-long-primer-bold",
+      "list-inline",
+      "component--default",
+      "component",
+      "clearfix",
+      "timestamp__icon",
+      "story-info__list",
+      "medium-abbr-off",
+      "story"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "story-info__item",
+      "section-tag--nested-link",
+      "section-tag",
+      "story__byline",
+      "story-info",
+      "story__info",
+      "gel-brevier",
+      "gelicon",
+      "byline",
+      "timestamp",
+      "gel-flag__body",
+      "list-inline--divided",
+      "gelicon--duration",
+      "gel-flag",
+      "gel-long-primer",
+      "story-info__item--time",
+      "abbr-on",
+      "gel-long-primer-bold",
+      "list-inline",
+      "vh",
+      "clearfix",
+      "timestamp__icon",
+      "story-info__list",
+      "medium-abbr-off"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "European Football",
+    "innerHrefTagText": "European Football",
+    "classNames": [
+      "gel-flag__body",
+      "list-inline--divided",
+      "",
+      "story-info__item",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-flag",
+      "story-info",
+      "gel-long-primer",
+      "story-info__item--time",
+      "abbr-on",
+      "gel-long-primer-bold",
+      "list-inline",
+      "vh",
+      "story__info",
+      "clearfix",
+      "gel-brevier",
+      "timestamp__icon",
+      "story-info__list",
+      "gelicon",
+      "byline",
+      "medium-abbr-off",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b",
+      "s-b-gelicon",
+      "s-b-container",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "gelicon",
+      "s-b-en-gb",
+      "s-b-icon",
+      "s-b-default"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "this page",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b",
+      "gelicon",
+      "s-b-gelicon",
+      "s-b-icon",
+      "s-b-default"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share this with",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "gelicon",
+      "s-b-icon"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Digg",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "s-b-p-networks",
+      "gelicon",
+      "s-b-icon"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Facebook",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "s-b-p-networks",
+      "gelicon",
+      "s-b-icon",
+      "gelicon--facebook"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Google",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-p-a",
+      "gelicon--digg",
+      "s-b-label",
+      "s-b-label-long",
+      "s-b-pointer",
+      "gelicon--google-plus",
+      "s-b-p-networks",
+      "gelicon",
+      "gelicon--facebook"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "LinkedIn",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-pointer",
+      "gelicon--google-plus",
+      "s-b-p-networks",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Reddit",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "StumbleUpon",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "gelicon",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Copy this link",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "http://www.bbc.co.uk/sport/football/35981302",
+    "innerHrefTagText": "http://www.bbc.co.uk/sport/football/35981302",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "s-b-copy-link",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-copy-input",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more about sharing.",
+    "innerHrefTagText": "Read more about sharing.",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "s-b-copy-link",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-copy-input",
+      "s-b-p-a",
+      "s-b-read-more",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Media playback is not supported on this device",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-p-close",
+      "sp-media-asset--lead",
+      "s-b-p-closeicon",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "s-b-copy-link",
+      "s-b-copy-text",
+      "media",
+      "s-b-read-more",
+      "sp-media-asset__smp",
+      "story-body",
+      "gelicon--twitter",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message",
+      "s-b-copy-input"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "A contract signed by Fifa\u0027s new president is named in the Panama Papers, as BBC sports editor Dan Roan reports",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-p-close",
+      "sp-media-asset--lead",
+      "s-b-p-closeicon",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "sp-media-asset__caption--alt",
+      "s-b-copy-link",
+      "sp-media-asset__caption",
+      "media",
+      "s-b-read-more",
+      "sp-media-asset__smp",
+      "story-body",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message",
+      "s-b-copy-input"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The offices of European football\u0027s governing body Uefa have been searched by Swiss police.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-p-close",
+      "sp-media-asset--lead",
+      "s-b-p-closeicon",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "sp-media-asset__caption--alt",
+      "sp-media-asset__caption",
+      "media",
+      "s-b-read-more",
+      "sp-media-asset__smp",
+      "story-body",
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It follows the naming of ex-secretary general Gianni Infantino - now president of world governing body Fifa - in papers leaked from Panamanian law firm Mossack Fonseca.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-p-close",
+      "sp-media-asset--lead",
+      "s-b-p-closeicon",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "sp-media-asset__caption--alt",
+      "sp-media-asset__caption",
+      "media",
+      "sp-media-asset__smp",
+      "story-body",
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Meanwhile, a Fifa official also named in the papers",
+    "innerHrefTagText": "a Fifa official also named in the papers",
+    "classNames": [
+      "sp-media-asset--lead",
+      "s-b-p-closeicon",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "sp-media-asset__caption--alt",
+      "sp-media-asset__caption",
+      "media",
+      "sp-media-asset__smp",
+      "story-body",
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "- Juan Pedro Damiani - has resigned.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-media-asset--lead",
+      "mp",
+      "gelicon--no",
+      "sp-media-asset",
+      "sp-media-asset__caption--alt",
+      "sp-media-asset__caption",
+      "media",
+      "sp-media-asset__smp",
+      "story-body",
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-body-copy",
+      "sp-media-asset__body",
+      "sp-media-asset__image",
+      "gelicon",
+      "sp-story-body",
+      "sp-media-asset__smp-message"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Infantino has denied wrongdoing while Uefa says it is helping police.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__introduction",
+      "mp",
+      "gel-brevier",
+      "sp-media-asset__caption--alt",
+      "gel-responsive-image",
+      "bbccom_slot",
+      "sp-media-asset__image",
+      "sp-media-asset__smp-message",
+      "bbccom_advert",
+      "sp-media-asset__caption",
+      "sp-media-asset__smp"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "While working for Uefa, Infantino co-signed a television rights deal in 2006 with two businessmen who have since been accused by the FBI of bribery.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__introduction",
+      "mp",
+      "gel-brevier",
+      "sp-media-asset__caption--alt",
+      "bbccom_slot",
+      "sp-media-asset__smp-message",
+      "bbccom_advert",
+      "sp-media-asset__caption",
+      "sp-media-asset__smp"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Cross Trading - owned by Hugo Jinkis and his son, Mariano - bought TV rights for Uefa Champions League football in 2006 for $111,000 (£78,000) and immediately sold them on to Ecuadorian TV broadcaster Teleamazonas for $311,170 (£220,000).",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__introduction",
+      "mp",
+      "gel-brevier",
+      "sp-media-asset__caption--alt",
+      "bbccom_slot",
+      "sp-media-asset__smp-message",
+      "bbccom_advert",
+      "sp-media-asset__caption",
+      "sp-media-asset__smp"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Cross Trading also paid $28,000 (£20,000) for the rights to the Uefa Super Cup, selling those to Teleamazonas for $126,200 (£89,000).",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "sp-media-asset__caption--alt",
+      "bbccom_slot",
+      "sp-media-asset__smp-message",
+      "bbccom_advert",
+      "sp-media-asset__caption"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The contract came to light after 11 million documents were leaked",
+    "innerHrefTagText": "11 million documents were leaked",
+    "classNames": [
+      "sp-story-body__introduction",
+      "gel-brevier",
+      "sp-media-asset__caption--alt",
+      "bbccom_slot",
+      "bbccom_advert",
+      "sp-media-asset__caption"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "from Mossack Fonseca.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__introduction",
+      "bbccom_slot",
+      "bbccom_advert"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More from the Fifa crisis",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__table-container",
+      "bbccom_slot",
+      "sp-story-body__table",
+      "bbccom_advert"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Infantino succeeds Blatter as Fifa president",
+    "innerHrefTagText": "Infantino succeeds Blatter as Fifa president",
+    "classNames": [
+      "sp-story-body__table-container",
+      "bbccom_slot",
+      "sp-story-body__table",
+      "bbccom_advert"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bans reduced to six years for Blatter \u0026 Platini",
+    "innerHrefTagText": "Bans reduced to six years for Blatter \u0026 Platini",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027We\u0027ll restore Fifa\u0027s image - Infantino",
+    "innerHrefTagText": "\u0027We\u0027ll restore Fifa\u0027s image - Infantino",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Blatter and Platini get eight-year bans",
+    "innerHrefTagText": "Blatter and Platini get eight-year bans",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fifa must get World Cup bidding process right",
+    "innerHrefTagText": "Fifa must get World Cup bidding process right",
+    "classNames": [
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fifa suspect Eugenio Figueredo faces extradition to US",
+    "innerHrefTagText": "Fifa suspect Eugenio Figueredo faces extradition to US",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "A statement from Switzerland\u0027s Office of the Attorney General (OAG) said a \"co-operative search\" took place \"for the purpose of securing evidence\".",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It said its criminal proceedings were connected to the acquisition of television rights and were \"directed against persons unknown, meaning that for the time being, no specific individual is being targeted\".",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It added: \"The suspicion is based on the result of findings that have emerged from other proceedings, as well as the corresponding financial analyses carried out by the OAG.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"Current publications in the media subsequently revealed still other elements that made it possible to complement the existing findings in a decisive manner.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"The final impetus was provided, in particular, by confirmation on the part of Uefa that it had concluded contracts with Cross Trading SA.\"",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More on Panama Papers",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Panama Papers firm \u0027victim of hack\u0027",
+    "innerHrefTagText": "Panama Papers firm \u0027victim of hack\u0027",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Panama Papers - latest reaction",
+    "innerHrefTagText": "Panama Papers - latest reaction",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Who\u0027s been caught in the scandal?",
+    "innerHrefTagText": "Who\u0027s been caught in the scandal?",
+    "classNames": [
+      "sp-story-body__table-container",
+      "sp-story-body__table"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Uefa initially denied doing business with any of the 14 people who have been indicted by the FBI in its investigation into corruption in world football.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It has now told the BBC the TV rights were sold to the highest bidder in an open and competitive tender process.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It also stressed it has been \"conducting a review of its various commercial contracts\" following the US indictments in May 2015.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Uefa also backed Infantino, who left the organisation after being elected Fifa president on 26 February,",
+    "innerHrefTagText": "elected Fifa president on 26 February,",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "describing him as \"an outstanding member of Uefa staff for many years\" and \"a man who has always acted with complete professionalism and integrity\".",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Infantino, meanwhile, said he welcomed \"any investigation into this matter\".",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The Swiss-Italian, who replaced the disgraced Sepp Blatter at the helm of Fifa, added in a statement on Wednesday: \"If my determination to restore football\u0027s reputation was already very strong, it is now even stronger.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"It is in my interest and in the interest of football that everything should come to light.\"",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "A senior Fifa source has told the BBC the 2006 deal should be examined by the governing body\u0027s ethics committee in the interests of transparency.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "There is no evidence to suggest Infantino - then Uefa\u0027s director of legal services - received a bribe relating to the contract with Cross Trading, and no suggestion Teleamazonas was in any way complicit in any wrongdoing.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Cross Trading also has links to Damiani, who has already been placed under internal investigation by Fifa.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "On Wednesday, he resigned from Fifa\u0027s ethics committee.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"We can confirm that Mr Damiani resigned from his position as member of the adjudicatory chamber of the independent ethics committee of Fifa,\" panel spokesman Marc Tenbuecken told the AFP news agency in an email.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Leaked Panama documents suggest Damiani and his firm provided legal assistance for at least seven offshore companies linked to Eugenio Figueredo, a former Fifa vice-president who was among the 14 people arrested last May in Zurich as part of the US inquiry.",
+    "innerHrefTagText": "",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "How did we find out about this?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It is down to a leak from the internal files of Mossack Fonseca.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mossack Fonseca is a Panama-based law firm that specialises in helping the wealthy and powerful set up offshore companies, like Cross Trading.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The documents were obtained by the German newspaper Suddeutsche Zeitung and shared with the International Consortium of Investigative Journalists.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "BBC Panorama and the Guardian newspaper are among 107 media organisations in 78 countries that have been analysing the documents.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Panama Papers - tax havens of the rich and powerful exposed",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Eleven million documents held by the Panama-based law firm Mossack Fonseca have been passed to German newspaper Sueddeutsche Zeitung, which then shared them with the International Consortium of Investigative Journalists.",
+    "innerHrefTagText": "International Consortium of Investigative Journalists.",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "BBC Panorama is among 107 media organisations - including UK newspaper the Guardian",
+    "innerHrefTagText": "the Guardian",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "- in 76 countries that have been analysing the documents. The BBC does not know the identity of the source.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "They show how the company has helped clients launder money, dodge sanctions and evade tax.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mossack Fonseca says it has operated beyond reproach for 40 years and never been accused or charged with criminal wrongdoing.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tricks of the trade: How assets are hidden and taxes evaded.",
+    "innerHrefTagText": "How assets are hidden and taxes evaded.",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Panama Papers: Full coverage",
+    "innerHrefTagText": "Full coverage",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "; follow reaction on Twitter using #PanamaPapers; in the BBC News app, follow the tag \"Panama Papers\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "sp-story-body__cross-head",
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Watch Panorama",
+    "innerHrefTagText": "Watch Panorama",
+    "classNames": [
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "on the BBC iPlayer (UK viewers only).",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon",
+      "sp-story-body__external-link",
+      "sp-story-body__external-link-icon",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b",
+      "s-b-gelicon",
+      "s-b-container",
+      "gelicon--share",
+      "s-b-label",
+      "share-tools",
+      "s-b-fx",
+      "gelicon",
+      "s-b-en-gb",
+      "s-b-icon",
+      "s-b-default"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "this page",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b",
+      "s-b-gelicon",
+      "s-b-container",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "gelicon",
+      "s-b-en-gb",
+      "s-b-icon",
+      "s-b-default"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share this with",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "gelicon",
+      "s-b-icon"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Digg",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "s-b-p-networks",
+      "gelicon",
+      "s-b-icon"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Facebook",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-button",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-fx",
+      "s-b-label-long",
+      "s-b-pointer",
+      "s-b-p-networks",
+      "gelicon",
+      "s-b-icon",
+      "gelicon--facebook"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Google",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-s",
+      "s-b-labels",
+      "s-b-p-auto",
+      "s-b-panel",
+      "s-b-gelicon",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--share",
+      "s-b-label",
+      "s-b-label-long",
+      "s-b-pointer",
+      "gelicon--google-plus",
+      "s-b-p-networks",
+      "gelicon",
+      "gelicon--facebook"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "LinkedIn",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "s-b-pointer",
+      "gelicon--google-plus",
+      "s-b-p-auto",
+      "s-b-p-networks",
+      "s-b-panel",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Reddit",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--digg",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "StumbleUpon",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon",
+      "gelicon--facebook",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "gelicon",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Copy this link",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--google-plus",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "http://www.bbc.co.uk/sport/football/35981302",
+    "innerHrefTagText": "http://www.bbc.co.uk/sport/football/35981302",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "s-b-copy-link",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-copy-input",
+      "s-b-p-a",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more about sharing.",
+    "innerHrefTagText": "Read more about sharing.",
+    "classNames": [
+      "gelicon--stumbleupon",
+      "gelicon--reddit",
+      "gelicon--twitter",
+      "s-b-copy-link",
+      "gelicon",
+      "s-b-copy-text",
+      "s-b-copy-input",
+      "s-b-p-a",
+      "s-b-read-more",
+      "gelicon--linkedin"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Find out more",
+    "innerHrefTagText": "",
+    "classNames": [
+      "s-b-p-close",
+      "s-b-p-closeicon",
+      "gelicon--no",
+      "s-b-copy-link",
+      "s-b-copy-text",
+      "s-b-p-a",
+      "s-b-read-more",
+      "component--default",
+      "component",
+      "gelicon--twitter",
+      "component__title",
+      "gelicon",
+      "s-b-copy-input"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fifa",
+    "innerHrefTagText": "Fifa",
+    "classNames": [
+      "s-b-p-close",
+      "gel-mr",
+      "s-b-copy-link",
+      "s-b-copy-text",
+      "gel-pica-bold",
+      "media",
+      "s-b-read-more",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "media__body",
+      "gelicon--twitter",
+      "gel-layout",
+      "gelicon",
+      "faux-block-link__target",
+      "s-b-copy-input",
+      "s-b-p-closeicon",
+      "gelicon--no",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-mb",
+      "component--default",
+      "component",
+      "faux-block-link",
+      "gel-mb+",
+      "component__title",
+      "gelicon--external"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Fifa",
+    "innerHrefTagText": "Read more on Fifa",
+    "classNames": [
+      "s-b-p-close",
+      "gel-mr",
+      "s-b-copy-link",
+      "s-b-copy-text",
+      "gel-pica-bold",
+      "media",
+      "s-b-read-more",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "media__body",
+      "gel-layout",
+      "gelicon",
+      "faux-block-link__target",
+      "s-b-copy-input",
+      "s-b-p-closeicon",
+      "gelicon--no",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-mb",
+      "component--default",
+      "component",
+      "faux-block-link",
+      "gel-mb+",
+      "component__title",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football on the BBC",
+    "innerHrefTagText": "Football on the BBC",
+    "classNames": [
+      "s-b-p-close",
+      "gel-mr",
+      "s-b-p-closeicon",
+      "gelicon--no",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-pica-bold",
+      "media",
+      "gel-mb",
+      "component--default",
+      "gel-1/2@m",
+      "component",
+      "gel-1/2@l",
+      "faux-block-link",
+      "gel-mb+",
+      "media__body",
+      "gel-layout",
+      "component__title",
+      "gelicon",
+      "faux-block-link__target",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Football on the BBC",
+    "innerHrefTagText": "Read more on Football on the BBC",
+    "classNames": [
+      "gel-mr",
+      "gelicon--no",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-pica-bold",
+      "media",
+      "gel-mb",
+      "component--default",
+      "gel-1/2@m",
+      "component",
+      "gel-1/2@l",
+      "faux-block-link",
+      "gel-mb+",
+      "media__body",
+      "gel-layout",
+      "component__title",
+      "gelicon",
+      "faux-block-link__target",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World Football Podcast",
+    "innerHrefTagText": "World Football Podcast",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-pica-bold",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "faux-block-link",
+      "gel-mb+",
+      "media__body",
+      "gelicon",
+      "faux-block-link__target",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on World Football Podcast",
+    "innerHrefTagText": "Read more on World Football Podcast",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-pica-bold",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "faux-block-link",
+      "media__body",
+      "gel-mb+",
+      "gelicon",
+      "faux-block-link__target",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC Sport Facebook",
+    "innerHrefTagText": "BBC Sport Facebook",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "media__img",
+      "gel-long-primer",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "faux-block-link",
+      "gel-mb+",
+      "media__body",
+      "faux-block-link__target",
+      "gelicon",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on BBC Sport Facebook",
+    "innerHrefTagText": "Read more on BBC Sport Facebook",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "media__img",
+      "gel-long-primer",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "faux-block-link",
+      "media__body",
+      "gel-mb+",
+      "faux-block-link__target",
+      "gelicon",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC Sport Twitter",
+    "innerHrefTagText": "BBC Sport Twitter",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "media__img",
+      "gel-long-primer",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "faux-block-link",
+      "gel-1/2@l",
+      "media__body",
+      "gel-mb+",
+      "faux-block-link__target",
+      "gelicon",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on BBC Sport Twitter",
+    "innerHrefTagText": "Read more on BBC Sport Twitter",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "media__img",
+      "gel-long-primer",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/2@l",
+      "faux-block-link",
+      "gel-mb+",
+      "media__body",
+      "faux-block-link__target",
+      "gelicon",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Top Stories",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gel-mr",
+      "gel-layout__item",
+      "media__img",
+      "gel-long-primer",
+      "gel-pica-bold",
+      "media",
+      "gel-mb",
+      "gel-1/2@m",
+      "gel-1/3@l",
+      "layout__secondary-col--spaced",
+      "component--default",
+      "gel-1/2@l",
+      "faux-block-link",
+      "component",
+      "gel-mb+",
+      "media__body",
+      "component__title",
+      "gelicon",
+      "faux-block-link__target",
+      "gelicon--external",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Paris St-Germain v Manchester City",
+    "innerHrefTagText": "Paris St-Germain v Manchester City",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "article-block__title",
+      "gel-pica-bold",
+      "article-block__body",
+      "gel-1/3@m",
+      "gel-1/3@l",
+      "layout__secondary-col--spaced",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "media__body",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "gel-mb",
+      "component--default",
+      "component",
+      "faux-block-link",
+      "gel-mb+",
+      "component__title",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Live",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "live-status__icon",
+      "gel-minion-bold",
+      "live-status--live",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "gel-1/3@l",
+      "layout__secondary-col--spaced",
+      "article-block__media",
+      "live-status__text",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "component--default",
+      "live-status",
+      "component",
+      "faux-block-link",
+      "gel-mb+",
+      "component__title",
+      "faux-block-link__overlay",
+      "live-status__icon--live"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "live-status__icon",
+      "",
+      "gel-minion-bold",
+      "section-tag--nested-link",
+      "section-tag",
+      "live-status--live",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "live-status__text",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "live-status",
+      "faux-block-link",
+      "vh",
+      "gel-mb+",
+      "component__title",
+      "live-status__icon--live"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "live-status__icon",
+      "",
+      "gel-minion-bold",
+      "section-tag--nested-link",
+      "section-tag",
+      "live-status--live",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "live-status__text",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "live-status",
+      "faux-block-link",
+      "vh",
+      "gel-mb+",
+      "live-status__icon--live"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Paris St-Germain v Manchester City",
+    "innerHrefTagText": "Read more on Paris St-Germain v Manchester City",
+    "classNames": [
+      "gel-5/8@l",
+      "live-status__icon",
+      "",
+      "gel-minion-bold",
+      "section-tag--nested-link",
+      "section-tag",
+      "live-status--live",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "live-status__text",
+      "gel-1/1@m",
+      "gel-brevier",
+      "gel-responsive-image",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gel-layout__item",
+      "list-inline",
+      "live-status",
+      "vh",
+      "live-status__icon--live",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Stokes can be \u0027one of England\u0027s best\u0027",
+    "innerHrefTagText": "Stokes can be \u0027one of England\u0027s best\u0027",
+    "classNames": [
+      "live-status__icon",
+      "",
+      "media-island",
+      "gel-5/8@l",
+      "gel-minion-bold",
+      "section-tag--nested-link",
+      "section-tag",
+      "live-status--live",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "live-status__text",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gel-5/8",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "live-status",
+      "vh",
+      "faux-block-link",
+      "gel-mb+",
+      "live-status__icon--live",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "media-island",
+      "gel-5/8@l",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "vh",
+      "faux-block-link",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "faux-block-link",
+      "vh",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cricket",
+    "innerHrefTagText": "Cricket",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "faux-block-link",
+      "vh",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Stokes can be \u0027one of England\u0027s best\u0027",
+    "innerHrefTagText": "Read more on Stokes can be \u0027one of England\u0027s best\u0027",
+    "classNames": [
+      "gel-responsive-image--16by9",
+      "gel-5/8@l",
+      "list-inline--divided",
+      "",
+      "sp-lazyload",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "gel-layout__item",
+      "article-block__body",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-1/1@m",
+      "vh",
+      "gel-brevier",
+      "gel-responsive-image",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US star Wambach admits using cocaine",
+    "innerHrefTagText": "US star Wambach admits using cocaine",
+    "classNames": [
+      "",
+      "media-island",
+      "gel-5/8@l",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "gelicon",
+      "faux-block-link__target",
+      "gel-5/8",
+      "timestamp",
+      "gel-3/8",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "vh",
+      "faux-block-link",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "media-island",
+      "gel-5/8@l",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "vh",
+      "faux-block-link",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "faux-block-link",
+      "vh",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "media-island",
+      "gel-5/8@l",
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "article-block__body",
+      "gel-pica-bold",
+      "gel-1/3@m",
+      "article-block__media",
+      "gel-1/1@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-responsive-image",
+      "gel-layout",
+      "article-block",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "gel-3/8",
+      "timestamp",
+      "gel-responsive-image--16by9",
+      "list-inline--divided",
+      "sp-lazyload",
+      "gelicon--duration",
+      "gel-3/8@l",
+      "gel-layout__item",
+      "list-inline",
+      "faux-block-link",
+      "vh",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on US star Wambach admits using cocaine",
+    "innerHrefTagText": "Read more on US star Wambach admits using cocaine",
+    "classNames": [
+      "gel-responsive-image--16by9",
+      "gel-5/8@l",
+      "list-inline--divided",
+      "",
+      "sp-lazyload",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "article-block__title",
+      "gel-layout__item",
+      "article-block__body",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-1/1@m",
+      "vh",
+      "gel-brevier",
+      "gel-responsive-image",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "gel-5/8",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Related to this story",
+    "innerHrefTagText": "",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "list-inline",
+      "component--default",
+      "vh",
+      "component",
+      "gel-brevier",
+      "timestamp__icon",
+      "component__title",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Panama Papers firm \u0027victim of hack\u0027",
+    "innerHrefTagText": "Panama Papers firm \u0027victim of hack\u0027",
+    "classNames": [
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "gel-mb",
+      "component--default",
+      "gel-1/2@m",
+      "vh",
+      "component",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "gel-layout",
+      "timestamp__icon",
+      "component__title",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "component--default",
+      "gel-1/2@m",
+      "vh",
+      "component",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "gel-layout",
+      "component__title",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-pica-bold",
+      "gel-1/2@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-layout",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "list-inline--divided",
+      "gelicon--duration",
+      "gel-layout__item",
+      "list-inline",
+      "gel-mb",
+      "component--default",
+      "section-tag--news",
+      "vh",
+      "component",
+      "faux-block-link",
+      "gel-mb+",
+      "component__title",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News",
+    "innerHrefTagText": "BBC News",
+    "classNames": [
+      "",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-pica-bold",
+      "gel-1/2@m",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-layout",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "list-inline--divided",
+      "gelicon--duration",
+      "gel-layout__item",
+      "list-inline",
+      "gel-mb",
+      "component--default",
+      "section-tag--news",
+      "component",
+      "faux-block-link",
+      "vh",
+      "gel-mb+",
+      "component__title",
+      "timestamp__icon",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Panama Papers: Leak firm Mossack Fonseca \u0027victim of hack\u0027",
+    "innerHrefTagText": "Read more on Panama Papers: Leak firm Mossack Fonseca \u0027victim of hack\u0027",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "section-tag--news",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "gel-layout",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fifa president contract listed",
+    "innerHrefTagText": "Fifa president contract listed",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News",
+    "innerHrefTagText": "BBC News",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Fifa president contract listed",
+    "innerHrefTagText": "Read more on Fifa president contract listed",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "section-tag--news",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Infantino \u0027dismayed\u0027 by media reports",
+    "innerHrefTagText": "Infantino \u0027dismayed\u0027 by media reports",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "5 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "section-tag--news",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Panama Papers: Fifa president Infantino \u0027dismayed\u0027 by media reports",
+    "innerHrefTagText": "Read more on Panama Papers: Fifa president Infantino \u0027dismayed\u0027 by media reports",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fifa ethics lawyer Damiani investigated",
+    "innerHrefTagText": "Fifa ethics lawyer Damiani investigated",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "3 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Panama Papers: Fifa ethics lawyer Juan Pedro Damiani under internal investigation",
+    "innerHrefTagText": "Read more on Panama Papers: Fifa ethics lawyer Juan Pedro Damiani under internal investigation",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027We will restore the image of Fifa\u0027",
+    "innerHrefTagText": "\u0027We will restore the image of Fifa\u0027",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "26 Feb",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on New Fifa President Gianni Infantino: \u0027We will restore the image of Fifa\u0027",
+    "innerHrefTagText": "Read more on New Fifa President Gianni Infantino: \u0027We will restore the image of Fifa\u0027",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football commentaries",
+    "innerHrefTagText": "Football commentaries",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "15 Jan",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "gelicon",
+      "faux-block-link__target",
+      "timestamp",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football",
+    "innerHrefTagText": "Football",
+    "classNames": [
+      "",
+      "list-inline--divided",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "vh",
+      "faux-block-link",
+      "gel-1/1@l",
+      "gel-brevier",
+      "gel-mb+",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Read more on Football commentaries",
+    "innerHrefTagText": "Read more on Football commentaries",
+    "classNames": [
+      "list-inline--divided",
+      "",
+      "gelicon--duration",
+      "section-tag--nested-link",
+      "section-tag",
+      "gel-layout__item",
+      "gel-pica-bold",
+      "list-inline",
+      "gel-mb",
+      "gel-1/2@m",
+      "faux-block-link",
+      "vh",
+      "gel-1/1@l",
+      "gel-mb+",
+      "gel-brevier",
+      "timestamp__icon",
+      "faux-block-link__target",
+      "gelicon",
+      "faux-block-link__overlay",
+      "timestamp"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Today\u0027s football gossip",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "media-island",
+      "gel-responsive-image--16by9",
+      "component--bg",
+      "sp-lazyload",
+      "layout--bleed-right-wide",
+      "multi-thumb-promo__list",
+      "section-tag--nested-link",
+      "section-tag",
+      "box-promo",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__item",
+      "gel-pica-bold",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "vh",
+      "component",
+      "clearfix",
+      "gel-brevier",
+      "gel-responsive-image",
+      "component__title",
+      "multi-thumb-promo__link",
+      "faux-block-link__overlay"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC Radio 5 live\u0027s Football Daily podcast",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "multi-thumb-promo__list",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__summary",
+      "multi-thumb-promo__item",
+      "gel-pica-bold",
+      "gel-long-primer",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "clearfix",
+      "gel-responsive-image",
+      "component__title",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football news, debate and analysis",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "multi-thumb-promo__list",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__summary",
+      "multi-thumb-promo__item",
+      "gel-pica-bold",
+      "gel-long-primer",
+      "multi-thumb-promo__media",
+      "gel-responsive-image",
+      "component__title",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get Inspired Activity Finder",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "component--bg",
+      "get-inspired__col-1",
+      "layout--bleed-right-wide",
+      "get-inspired__inner",
+      "get-inspired",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__summary",
+      "gel-pica-bold",
+      "gel-long-primer",
+      "multi-thumb-promo__item",
+      "get-inspired--",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "component",
+      "gel-responsive-image",
+      "component__title",
+      "get-inspired__title",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Run by the BBC and partners",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "component--bg",
+      "get-inspired__col-1",
+      "layout--bleed-right-wide",
+      "get-inspired__inner",
+      "get-inspired",
+      "get-inspired__logo",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__summary",
+      "gel-long-primer",
+      "multi-thumb-promo__item",
+      "gel-pica-bold",
+      "gel-minion",
+      "get-inspired--",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "component",
+      "gel-responsive-image",
+      "component__title",
+      "get-inspired__title",
+      "get-inspired__sub-header",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Find ways to get active near you:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "component--bg",
+      "get-inspired__col-1",
+      "layout--bleed-right-wide",
+      "get-inspired",
+      "get-inspired__logo",
+      "multi-thumb-promo__summary",
+      "gel-pica-bold",
+      "gel-responsive-image",
+      "get-inspired__title",
+      "gel-pica",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired__inner",
+      "get-inspired__search-header",
+      "multi-thumb-promo__title",
+      "multi-thumb-promo__item",
+      "gel-long-primer",
+      "gel-minion",
+      "get-inspired--",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "component",
+      "component__title",
+      "get-inspired__sub-header",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Enter your town, city or postcode:",
+    "innerHrefTagText": "",
+    "classNames": [
+      "media-island",
+      "component--bg",
+      "get-inspired__col-1",
+      "layout--bleed-right-wide",
+      "get-inspired",
+      "get-inspired__logo",
+      "multi-thumb-promo__summary",
+      "gel-pica-bold",
+      "gel-brevier",
+      "get-inspired-search",
+      "gel-responsive-image",
+      "get-inspired__title",
+      "gel-pica",
+      "gel-responsive-image--16by9",
+      "get-inspired-search__label",
+      "sp-lazyload",
+      "get-inspired__inner",
+      "get-inspired__search-header",
+      "multi-thumb-promo__title",
+      "gel-long-primer",
+      "gel-minion",
+      "get-inspired--",
+      "layout--bleed-right-wide__inner",
+      "multi-thumb-promo__media",
+      "component",
+      "component__title",
+      "get-inspired__sub-header",
+      "multi-thumb-promo__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Search",
+    "innerHrefTagText": "",
+    "classNames": [
+      "component--bg",
+      "get-inspired__col-1",
+      "layout--bleed-right-wide",
+      "get-inspired",
+      "get-inspired__logo",
+      "get-inspired-search__submit",
+      "multi-thumb-promo__summary",
+      "gel-pica-bold",
+      "gel-brevier",
+      "get-inspired-search",
+      "get-inspired__title",
+      "gelicon",
+      "gel-pica",
+      "get-inspired-search__label",
+      "get-inspired__inner",
+      "get-inspired__search-header",
+      "multi-thumb-promo__title",
+      "get-inspired-search__submit-text",
+      "gel-long-primer",
+      "gel-minion",
+      "get-inspired-search__input",
+      "get-inspired--",
+      "get-inspired-search__field-wrap",
+      "gelicon--search",
+      "layout--bleed-right-wide__inner",
+      "component",
+      "component__title",
+      "get-inspired-search__submit-icon",
+      "get-inspired__sub-header",
+      "get-inspired-search__input-wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wed 06 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "get-inspired__logo",
+      "get-inspired-search__submit",
+      "get-inspired__col-2",
+      "get-inspired__media",
+      "get-inspired__date",
+      "gel-brevier",
+      "get-inspired-search",
+      "gel-responsive-image",
+      "gelicon",
+      "gel-pica",
+      "get-inspired-search__label",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired__search-header",
+      "get-inspired__media-item",
+      "get-inspired-search__submit-text",
+      "gel-minion",
+      "get-inspired-search__input",
+      "get-inspired-search__field-wrap",
+      "gelicon--search",
+      "get-inspired__media-link",
+      "get-inspired-search__submit-icon",
+      "get-inspired__sub-header",
+      "get-inspired__img-wrapper",
+      "get-inspired-search__input-wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Spring Multi-Sports Camp",
+    "innerHrefTagText": "",
+    "classNames": [
+      "get-inspired-search__label",
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired__search-header",
+      "get-inspired-search__submit",
+      "get-inspired__col-2",
+      "get-inspired__media-item",
+      "get-inspired-search__submit-text",
+      "get-inspired__media",
+      "get-inspired-search__input",
+      "gel-minion",
+      "get-inspired__date",
+      "get-inspired-search__field-wrap",
+      "gelicon--search",
+      "gel-brevier",
+      "get-inspired__media-body",
+      "get-inspired-search",
+      "gel-responsive-image",
+      "gelicon",
+      "get-inspired__media-link",
+      "get-inspired-search__submit-icon",
+      "get-inspired__img-wrapper",
+      "gel-pica",
+      "get-inspired-search__input-wrap"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wed 06 Apr",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired-search__submit",
+      "get-inspired__col-2",
+      "get-inspired__media-item",
+      "get-inspired-search__submit-text",
+      "get-inspired__media",
+      "gel-minion",
+      "get-inspired__date",
+      "gelicon--search",
+      "get-inspired__media-body",
+      "gel-responsive-image",
+      "gelicon",
+      "get-inspired__media-link",
+      "get-inspired-search__submit-icon",
+      "get-inspired__img-wrapper",
+      "gel-pica"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Startrack Athletics Coaching Camps 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired__col-2",
+      "get-inspired__media-item",
+      "get-inspired-search__submit-text",
+      "get-inspired__media",
+      "gel-minion",
+      "get-inspired__date",
+      "get-inspired__media-body",
+      "gel-responsive-image",
+      "get-inspired__media-link",
+      "get-inspired__img-wrapper",
+      "gel-pica"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "For more ideas, information and inspiration, visit bbc.co.uk/getinspired",
+    "innerHrefTagText": "bbc.co.uk/getinspired",
+    "classNames": [
+      "gel-responsive-image--16by9",
+      "sp-lazyload",
+      "get-inspired__link",
+      "get-inspired__media-body",
+      "gel-responsive-image",
+      "get-inspired__media-item",
+      "get-inspired__col-3",
+      "get-inspired__media-link",
+      "gel-minion",
+      "get-inspired__date",
+      "get-inspired__img-wrapper",
+      "gel-pica"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Back to top",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "get-inspired__link",
+      "ico",
+      "top-link",
+      "top-link__icon",
+      "nav-bottom",
+      "gel-pica-bold",
+      "gel-pica",
+      "ico-to-top"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "European Football",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "get-inspired__link",
+      "gel-wrap",
+      "clearfix",
+      "ico",
+      "top-link",
+      "footer",
+      "footer__header",
+      "top-link__icon",
+      "nav-bottom",
+      "gel-pica-bold",
+      "ico-to-top"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Results",
+    "innerHrefTagText": "Results",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "gel-wrap",
+      "footer",
+      "footer__columns",
+      "top-link__icon",
+      "gel-pica-bold",
+      "ico-to-top",
+      "clearfix",
+      "ico",
+      "top-link",
+      "footer__header",
+      "footer__column",
+      "nav-bottom",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Fixtures",
+    "innerHrefTagText": "Fixtures",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "gel-wrap",
+      "footer",
+      "footer__columns",
+      "top-link__icon",
+      "gel-pica-bold",
+      "ico-to-top",
+      "clearfix",
+      "ico",
+      "top-link",
+      "footer__header",
+      "footer__column",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tables",
+    "innerHrefTagText": "Tables",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "gel-wrap",
+      "clearfix",
+      "footer",
+      "footer__header",
+      "footer__columns",
+      "footer__column",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Champions League",
+    "innerHrefTagText": "Champions League",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__column",
+      "footer__items",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Europa League",
+    "innerHrefTagText": "Europa League",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__column",
+      "footer__items",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "European Football Home",
+    "innerHrefTagText": "European Football Home",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__column",
+      "footer__items",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More from Football",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__keyline",
+      "footer__header",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Live Scores",
+    "innerHrefTagText": "Live Scores",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__keyline",
+      "clearfix",
+      "footer__header",
+      "footer__columns",
+      "footer__column",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__item",
+      "footer__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "All Teams",
+    "innerHrefTagText": "All Teams",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__keyline",
+      "clearfix",
+      "footer__header",
+      "footer__columns",
+      "footer__column",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__item",
+      "footer__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Leagues \u0026 Cups",
+    "innerHrefTagText": "Leagues \u0026 Cups",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "clearfix",
+      "footer__header",
+      "footer__columns",
+      "footer__column",
+      "footer__items",
+      "footer__columns--base-only",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Football Home",
+    "innerHrefTagText": "Football Home",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__column",
+      "footer__items",
+      "footer__column--left",
+      "footer__item"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News Feeds",
+    "innerHrefTagText": "News Feeds",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__keyline",
+      "clearfix",
+      "footer__column",
+      "footer__columns",
+      "footer__items",
+      "footer__item",
+      "footer__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Help \u0026 FAQs",
+    "innerHrefTagText": "Help \u0026 FAQs",
+    "classNames": [
+      "",
+      "footer__item-link",
+      "footer__keyline",
+      "clearfix",
+      "footer__columns",
+      "footer__column",
+      "footer__items",
+      "footer__item",
+      "footer__column--left"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explore the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-footer",
+      "orb-nav-sec",
+      "branding-fade",
+      "b-footer--grey--white",
+      "b-g-p",
+      "b-r",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-footer",
+      "orb-nav-sec",
+      "b-footer--grey--white",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sec",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Terms of Use",
+    "innerHrefTagText": "Terms of Use",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "About the BBC",
+    "innerHrefTagText": "About the BBC",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Privacy Policy",
+    "innerHrefTagText": "Privacy Policy",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cookies",
+    "innerHrefTagText": "Cookies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parental Guidance",
+    "innerHrefTagText": "Parental Guidance",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact the BBC",
+    "innerHrefTagText": "Contact the BBC",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Advertise with us",
+    "innerHrefTagText": "Advertise with us",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Ad choices",
+    "innerHrefTagText": "Ad choices",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Copyright © 2016 BBC.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+    "innerHrefTagText": "Read about our approach to external linking.",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  }
+]

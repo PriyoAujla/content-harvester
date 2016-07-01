@@ -1,0 +1,6 @@
+
+dependencies {
+    compile project(":data")
+    compile project(":feature-extraction")
+    compile 'nz.ac.waikato.cms.weka:weka-stable:3.6.13'
+}

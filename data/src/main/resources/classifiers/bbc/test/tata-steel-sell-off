@@ -1,0 +1,3434 @@
+[
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility links",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-pri",
+      "orb-nav-empty",
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-white",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section",
+      "b-header--white--black"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Skip to content",
+    "innerHrefTagText": "Skip to content",
+    "classNames": [
+      "b-g-p",
+      "b-r",
+      "orb-nav-blocks",
+      "orb-nav-pri-container",
+      "orb-skip-links",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": [
+      "orb-skip-links"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC iD",
+    "innerHrefTagText": "BBC iD",
+    "classNames": [
+      "orb-nav-focus",
+      "orb-nav-section",
+      "orb-nav-id"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Notifications",
+    "innerHrefTagText": "Notifications",
+    "classNames": [
+      "js-notification-link",
+      "orb-nav-focus",
+      "animated",
+      "orb-nav-section",
+      "orb-nav-id",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav",
+      "js-notification-link",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "animated",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "three",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "notification-link--triangle",
+      "orb-nav-section",
+      "hidden-span"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "notification-link--triangle",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav",
+      "orb-nav-focus",
+      "orb-nav-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Menu",
+    "innerHrefTagText": "Menu",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-icon-arrow",
+      "orb-w",
+      "orb-icon",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Search the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "orb-nav-search",
+      "orb-icon-arrow",
+      "orb-icon",
+      "b-f",
+      "orb-nav-section",
+      "orb-nav-oldsearch"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News",
+    "innerHrefTagText": "BBC News",
+    "classNames": [
+      "site-brand",
+      "navigation",
+      "navigation--primary",
+      "site-brand-inner--height",
+      "site-brand--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "site-brand",
+      "navigation__heading",
+      "navigation",
+      "navigation--primary",
+      "off-screen",
+      "site-brand-inner--height",
+      "site-brand--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sections",
+    "innerHrefTagText": "Sections",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "navigation--primary",
+      "navigation__section",
+      "off-screen",
+      "site-brand-inner--height",
+      "site-brand-inner",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Find local news",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "find-local-wide__link",
+      "navigation--primary",
+      "navigation__section",
+      "find-local-wide",
+      "off-screen",
+      "brand__svg"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Home",
+    "innerHrefTagText": "Home",
+    "classNames": [
+      "navigation__heading",
+      "navigation",
+      "navigation__section--core",
+      "navigation-wide-list__link",
+      "find-local-wide__link",
+      "navigation__section",
+      "find-local-wide",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation--wide"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "UK",
+    "classNames": [
+      "navigation",
+      "navigation-wide-list__link",
+      "find-local-wide__link",
+      "find-local-wide",
+      "navigation-wide-list",
+      "navigation--wide"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World",
+    "innerHrefTagText": "World",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-wide-list"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics",
+    "innerHrefTagText": "Politics",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tech",
+    "innerHrefTagText": "Tech",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Science",
+    "innerHrefTagText": "Science",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Health",
+    "innerHrefTagText": "Health",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education",
+    "innerHrefTagText": "Education",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entertainment \u0026 Arts",
+    "innerHrefTagText": "Entertainment \u0026 Arts",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Video \u0026 Audio",
+    "innerHrefTagText": "Video \u0026 Audio",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Magazine",
+    "innerHrefTagText": "Magazine",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "In Pictures",
+    "innerHrefTagText": "In Pictures",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Also in the News",
+    "innerHrefTagText": "Also in the News",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Special Reports",
+    "innerHrefTagText": "Special Reports",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explainers",
+    "innerHrefTagText": "Explainers",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Reporters",
+    "innerHrefTagText": "The Reporters",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Have Your Say",
+    "innerHrefTagText": "Have Your Say",
+    "classNames": [
+      "navigation-wide-list__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Disability",
+    "innerHrefTagText": "Disability",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "navigation-wide-list--secondary",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation-wide-list--secondary",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Your Money",
+    "innerHrefTagText": "Your Money",
+    "classNames": [
+      "secondary-navigation--wide",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation-wide-list--secondary",
+      "navigation-wide-list__link--first",
+      "secondary-navigation",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Market Data",
+    "innerHrefTagText": "Market Data",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-wide-list",
+      "off-screen",
+      "navigation-wide-list--secondary",
+      "navigation-wide-list__link--first",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Markets",
+    "innerHrefTagText": "Markets",
+    "classNames": [
+      "navigation-wide-list__link",
+      "off-screen",
+      "navigation-wide-list__link--first"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Companies",
+    "innerHrefTagText": "Companies",
+    "classNames": [
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--first"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Economy",
+    "innerHrefTagText": "Economy",
+    "classNames": [
+      "",
+      "navigation-wide-list__link",
+      "navigation-wide-list__link--last"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "index-title__container",
+      "index-title--redundant",
+      "bbccom_slot",
+      "bbccom_advert",
+      "index-title",
+      "container-width-only"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "index-title__container",
+      "index-title--redundant",
+      "bbccom_slot",
+      "bbccom_advert",
+      "index-title",
+      "container-width-only",
+      "configurable",
+      "story"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Sajid Javid: Tata Steel sale process to begin by Monday",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "index-title__container",
+      "story-body",
+      "column-clearfix",
+      "index-title--redundant",
+      "container--primary-and-secondary-columns",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "index-title",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "index-title__container",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "From the section",
+    "innerHrefTagText": "",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "bbccom_slot",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "off-screen",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "container",
+      "date",
+      "date--v2",
+      "column--primary",
+      "bbccom_advert",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "story-body",
+      "column-clearfix",
+      "container--primary-and-secondary-columns",
+      "off-screen",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image copyright",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body",
+      "story-body__inner",
+      "off-screen",
+      "full-width",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "media-landscape",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "AFP",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "mini-info-list",
+      "story-body__mini-info-list-and-share",
+      "media-landscape",
+      "story-body__h1",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image caption",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "mini-info-list",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Sajid Javid travelled to India to meet Tata chairman Cyrus Mistry",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__item",
+      "mini-info-list__section-desc",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tata Steel will begin the formal process to sell its UK plants by Monday, Business Secretary Sajid Javid has said after talks in India.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "mini-info-list__section-desc",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Javid said a number of parties had come forward, but only named Liberty Steel, whose interest is widely known.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead",
+      "story-body__inner",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "mini-info-list__section"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "He said the meeting was \"constructive and positive\" and had demonstrated once again Tata was a \"responsible company\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "story-body__inner",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Meanwhile, Liberty boss Sanjeev Gupta admitted his takeover plans had been written \"on the back of an envelope\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-caption",
+      "media-landscape",
+      "story-body__introduction",
+      "has-caption",
+      "media-caption__text",
+      "lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "He also said taking over the loss-making business would be a \"daunting proposition\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "image-and-copyright-container",
+      "js-image-replace",
+      "off-screen",
+      "story-image-copyright",
+      "media-caption",
+      "story-body__introduction",
+      "media-caption__text"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\u0027Constructive\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "off-screen",
+      "bbccom_advert",
+      "media-caption",
+      "story-body__introduction",
+      "media-caption__text",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tata is known to want a quick sale, but Mr Javid gave no details of what the timeframe for a sale would be.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "off-screen",
+      "bbccom_advert",
+      "story-body__introduction",
+      "media-caption__text",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Javid said that Tata had told him it would allow a \"reasonable amount of time\" for the sale process.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "story-body__introduction",
+      "media-caption__text",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "He added that he expected other interested parties to come forward once the formal sale process had begun.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "story-body__introduction",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Sajid Javid was meeting Tata chairman",
+    "innerHrefTagText": "meeting Tata chairman",
+    "classNames": [
+      "story-body__link-external",
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Cyrus Mistry for the first time since the firm announced the sale a week ago.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "It came after steelworkers\u0027 union Community asked Tata to clarify the timeframe for the sale and make sure it was not a \"rushed process\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Roy Rickhuss, general secretary of Community, said: \"After leaving his meeting with Tata\u0027s Chairman in Mumbai, Sajid Javid phoned to brief me on his discussions.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"I welcome the fact that the secretary of state informed me of the constructive conversation he had with Tata. I am pleased that he raised those issues I had raised with him before he flew to India.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "bbccom_slot",
+      "story-body__crosshead",
+      "bbccom_advert",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "\"I am encouraged to learn that Tata have committed to be a responsible seller and to allow the time we need to secure a new commercial operator.\"",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead",
+      "bbccom_advert"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Pay cut",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Local MP Stephen Kinnock said it was vital the sale was allowed enough time.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Kinnock, the MP for Aberavon, which includes Port Talbot, told the BBC: \"My sense is that Tata Steel are keen to move very quickly, they want to find a buyer as quickly as possible.\"",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Meanwhile, union members at Tata\u0027s Scunthorpe site are voting on a 3% cut in pay and a reduction in pensions, which is part of a turnaround plan ahead of the expected sale to investment firm Greybull Capital.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Talks over the sale of the plant, which employs about 4,000 staff, had been taking place for several months before Tata said it was looking to shed all its UK assets.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK steel crisis",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__link-external",
+      "story-body__line",
+      "story-body__crosshead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Image copyright",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__line",
+      "no-caption",
+      "story-body__crosshead",
+      "off-screen",
+      "full-width",
+      "media-landscape"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Reuters",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__line",
+      "no-caption",
+      "story-body__crosshead",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-landscape"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027Substantial support\u0027 needed for steel",
+    "innerHrefTagText": "\u0027Substantial support\u0027 needed for steel",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__line",
+      "no-caption",
+      "story-body__crosshead",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Who might buy Tata in Port Talbot?",
+    "innerHrefTagText": "Who might buy Tata in Port Talbot?",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__line",
+      "no-caption",
+      "story-body__crosshead",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What\u0027s going wrong with Britain\u0027s steel industry?",
+    "innerHrefTagText": "What\u0027s going wrong with Britain\u0027s steel industry?",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "story-body__line",
+      "no-caption",
+      "story-body__crosshead",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tata Steel UK: What are the options?",
+    "innerHrefTagText": "Tata Steel UK: What are the options?",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "no-caption",
+      "off-screen",
+      "story-image-copyright",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Is China to blame for steel woes?",
+    "innerHrefTagText": "Is China to blame for steel woes?",
+    "classNames": [
+      "js-delayed-image-load",
+      "off-screen",
+      "story-image-copyright",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Javid, who was on a business trip to Australia when Tata first announced it was planning to sell its UK steelworks, is under pressure over his handling of the crisis.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The business secretary has admitted he was caught unaware by Tata\u0027s announcement, telling the BBC",
+    "innerHrefTagText": "telling the BBC",
+    "classNames": [
+      "story-body__line",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "that while he had known the firm was reviewing its UK operations, the firm had gone \"much further than we expected\".",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Unions have accused the business secretary of \"taking his eye off the ball\" and have called for him to stand down if a buyer for the steelworks is not found.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Steel saviour?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The Mumbai meeting came a day after Mr Javid held what he described as \"constructive meetings\" with unions and industry body UK Steel.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "On Tuesday, Mr Javid also met Welsh First Minister Carwyn Jones and Sanjeev Gupta, chief executive of the commodities firm Liberty House, which has said it is interested in buying Tata\u0027s British steel operations, including Port Talbot.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tata Steel directly employs 15,000 workers in the UK, across plants in Port Talbot, Rotherham, Corby and Shotton, and supports thousands of other jobs.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Mr Gupta told the BBC",
+    "innerHrefTagText": "told the BBC",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "he would not be looking to make mass redundancies but said he could give no guarantees.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "And he said he would look for government help in retraining some of the workforce. He has already indicated he sees the plant\u0027s future away from hot end, heavy steel-making.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "story-body__line",
+      "story-body__crosshead",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Two other potential buyers: German Group ThyssenKrupp and investment firm Greybull have also been reported to be interested in acquiring parts of Tata\u0027s UK steel operations.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "no-caption",
+      "story-body__crosshead",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tata Steel has said there is \"no fixed timeline\" for the sale process, but has stressed that urgency is needed to avoid \"a long period of uncertainty\" for employees and customers.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "no-caption",
+      "story-body__crosshead",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "The steel industry crisis has been driven by falling prices and a global oversupply. In the UK, high energy costs and cheaper Chinese imports have exacerbated the issue.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "js-delayed-image-load",
+      "image-and-copyright-container",
+      "no-caption",
+      "full-width",
+      "media-landscape",
+      "story-body__link"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Share this story        About sharing",
+    "innerHrefTagText": "About sharing",
+    "classNames": [
+      "",
+      "js-delayed-image-load",
+      "ghost-column",
+      "share__title",
+      "image-and-copyright-container",
+      "hidden",
+      "no-caption",
+      "share--lightweight",
+      "show",
+      "share__title--lightweight",
+      "full-width",
+      "share",
+      "media-landscape"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Email",
+    "innerHrefTagText": "Email",
+    "classNames": [
+      "",
+      "share__tools",
+      "js-delayed-image-load",
+      "ghost-column",
+      "share__title",
+      "image-and-copyright-container",
+      "hidden",
+      "share--lightweight",
+      "show",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Facebook",
+    "innerHrefTagText": "Facebook",
+    "classNames": [
+      "",
+      "share__tools",
+      "ghost-column",
+      "share__title",
+      "hidden",
+      "share--lightweight",
+      "show",
+      "share__tool--facebook",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Twitter",
+    "innerHrefTagText": "Twitter",
+    "classNames": [
+      "",
+      "share__tools",
+      "shortenUrl",
+      "ghost-column",
+      "share__title",
+      "share--lightweight",
+      "show",
+      "share__tool--facebook",
+      "share__title--lightweight",
+      "share__tools--lightweight",
+      "share",
+      "share__tool--twitter",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "WhatsApp",
+    "innerHrefTagText": "WhatsApp",
+    "classNames": [
+      "share__tools",
+      "shortenUrl",
+      "share__tools--lightweight",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "share__tool--facebook",
+      "share__tool",
+      "share__tool--email"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Linkedin",
+    "innerHrefTagText": "Linkedin",
+    "classNames": [
+      "share__tool--linkedin",
+      "shortenUrl",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "share__tool--facebook",
+      "share__tool"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "More on this story",
+    "innerHrefTagText": "",
+    "classNames": [
+      "share__tool--linkedin",
+      "shortenUrl",
+      "share__tool--whatsapp",
+      "share__tool--twitter",
+      "more-on-this-story",
+      "story-more",
+      "group__title",
+      "share__tool",
+      "group__header",
+      "group",
+      "story-alsos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tata rescue plan written \u0027on back of envelope\u0027",
+    "innerHrefTagText": "Tata rescue plan written \u0027on back of envelope\u0027",
+    "classNames": [
+      "share__tool--whatsapp",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "share__tool--linkedin",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "share__tool",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "share__tool--linkedin",
+      "cta",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "story-more",
+      "share__tool",
+      "group__header",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Video",
+    "innerHrefTagText": "Video",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "more-on-this-story",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "story-alsos",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "unit__meta",
+      "icon-new--video-square-red",
+      "unit__header",
+      "unit__title",
+      "group__header",
+      "icon-new",
+      "group"
+    ]
+  },
+  {
+    "isArticleTextBlock": true,
+    "text": "Tata Steel: Government \u0027to do everything it can\u0027 to support sale",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "group__body",
+      "units-list",
+      "group__title",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "unit__meta",
+      "icon-new--video-square-red",
+      "unit__header",
+      "unit__title",
+      "icon-new"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "units-list",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "unit__meta",
+      "icon-new--video-square-red",
+      "unit__header",
+      "unit__title",
+      "icon-new"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tata Steel: Sajid Javid meets potential buyer Sanjeev Gupta",
+    "innerHrefTagText": "Tata Steel: Sajid Javid meets potential buyer Sanjeev Gupta",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "unit__meta",
+      "icon-new--video-square-red",
+      "unit__header",
+      "unit__title",
+      "icon-new"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "5 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "icon-new--video-square-red",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "icon-new"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tata Steel UK: What are the options?",
+    "innerHrefTagText": "Tata Steel UK: What are the options?",
+    "classNames": [
+      "date",
+      "date--v1",
+      "unit__link-wrapper",
+      "unit__body",
+      "cta",
+      "unit",
+      "unit--regular",
+      "off-screen",
+      "icon-new--video-square-red",
+      "unit__meta",
+      "unit__header",
+      "unit__title",
+      "icon-new"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "31 March 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Britain\u0027s steel industry: What\u0027s going wrong?",
+    "innerHrefTagText": "Britain\u0027s steel industry: What\u0027s going wrong?",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "30 March 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "What next for Tata Steel workers?",
+    "innerHrefTagText": "What next for Tata Steel workers?",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "30 March 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "cta",
+      "date--v1",
+      "unit",
+      "unit--regular",
+      "unit__meta",
+      "unit__link-wrapper",
+      "unit__header",
+      "unit__title",
+      "unit__body"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Top Stories",
+    "innerHrefTagText": "",
+    "classNames": [
+      "column--secondary",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "outbrain-ad",
+      "top-stories-promo__title"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Swiss police search Uefa offices",
+    "innerHrefTagText": "Swiss police search Uefa offices",
+    "classNames": [
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Uefa\u0027s offices are searched by Swiss police following papers leaked from a Panamanian law firm, and a Fifa lawyer resigns.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Man admits killing shopkeeper Asad Shah",
+    "innerHrefTagText": "Man admits killing shopkeeper Asad Shah",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "bbccom_slot",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "outbrain-ad",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Government spends £9m on pro-EU leaflets",
+    "innerHrefTagText": "Government spends £9m on pro-EU leaflets",
+    "classNames": [
+      "date",
+      "date--v2",
+      "column--secondary",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "6 April 2016",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "date--v2",
+      "top-stories-promo-story",
+      "top-stories-promo",
+      "top-stories-promo-story__title",
+      "top-stories-promo__title",
+      "top-stories-promo-story__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Features",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "hotspot--empty",
+      "features-and-analysis",
+      "date--v2",
+      "top-stories-promo-story",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "bbccom_advert",
+      "top-stories-promo-story__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The cabbage myth",
+    "innerHrefTagText": "",
+    "classNames": [
+      "date",
+      "hotspot--empty",
+      "features-and-analysis",
+      "responsive-image--16by9",
+      "date--v2",
+      "js-delayed-image-load",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "features-and-analysis__stories",
+      "bbccom_advert",
+      "promo-unit-spacer",
+      "features-and-analysis__story",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "How a tale about 26,911 words of red tape was born",
+    "innerHrefTagText": "",
+    "classNames": [
+      "hotspot--empty",
+      "features-and-analysis",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "hotspot",
+      "bbccom_slot",
+      "hotspot--hidden",
+      "features-and-analysis__stories",
+      "bbccom_advert",
+      "promo-unit-spacer",
+      "bold-image-promo__summary",
+      "features-and-analysis__story",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "features-and-analysis__title",
+      "mpu-ad"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Dangerous fad?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "features-and-analysis__stories",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "promo-unit-spacer",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The trend for people giving themselves electric shocks",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I\u0027m moving to Australia\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The junior doctors leaving over contract dispute",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accidental jihadist",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The teenager who just wanted to travel",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Leant on",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Gap pulls advert photo in \"passive racism\" controversy",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tomorrow\u0027s buildings",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Is world\u0027s greenest office also smart?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Caged like animals",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I grew up in a Romanian orphanage and still miss it\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Uber v rickshaw",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "A road race on Delhi\u0027s streets - who will win?",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "\u0027I sleep in my car\u0027",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "One soldier\u0027s struggle with PTSD",
+    "innerHrefTagText": "",
+    "classNames": [
+      "features-and-analysis__story",
+      "responsive-image--16by9",
+      "js-delayed-image-load",
+      "bold-image-promo__image",
+      "bold-image-promo",
+      "responsive-image",
+      "bold-image-promo__title",
+      "bold-image-promo__summary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News navigation",
+    "innerHrefTagText": "",
+    "classNames": [
+      "bbccom_slot",
+      "navigation--footer__heading",
+      "bbccom_advert",
+      "inread",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "bbccom_slot",
+      "navigation--footer__heading",
+      "bbccom_advert",
+      "navigation-arrow",
+      "inread",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sections",
+    "innerHrefTagText": "",
+    "classNames": [
+      "navigation-core-title",
+      "navigation--footer__heading",
+      "navigation-arrow",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected",
+      "navigation--footer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Your Money",
+    "innerHrefTagText": "Your Money",
+    "classNames": [
+      "navigation-core-title",
+      "navigation--footer__heading",
+      "secondary-navigation--bottom__toplevel",
+      "navigation-arrow",
+      "secondary-navigation--bottom",
+      "secondary-navigation__title",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Market Data",
+    "innerHrefTagText": "Market Data",
+    "classNames": [
+      "navigation-core-title",
+      "secondary-navigation--bottom__toplevel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Markets",
+    "innerHrefTagText": "Markets",
+    "classNames": [
+      "secondary-navigation--bottom__toplevel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Companies",
+    "innerHrefTagText": "Companies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Economy",
+    "innerHrefTagText": "Economy",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Home",
+    "innerHrefTagText": "Home",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "core--with-secondary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK",
+    "innerHrefTagText": "UK",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "navigation-arrow",
+      "core--with-secondary"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "UK Home",
+    "innerHrefTagText": "UK Home",
+    "classNames": [
+      "navigation--bottom",
+      "navigation",
+      "navigation--bottom__toplevel",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "core--with-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "England",
+    "innerHrefTagText": "England",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "N. Ireland",
+    "innerHrefTagText": "N. Ireland",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-UK",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Scotland",
+    "innerHrefTagText": "Scotland",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Alba",
+    "innerHrefTagText": "Alba",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Wales",
+    "innerHrefTagText": "Wales",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cymru",
+    "innerHrefTagText": "Cymru",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World",
+    "innerHrefTagText": "World",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "World Home",
+    "innerHrefTagText": "World Home",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Africa",
+    "innerHrefTagText": "Africa",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Asia",
+    "innerHrefTagText": "Asia",
+    "classNames": [
+      "js-navigation-panel-World",
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Australia",
+    "innerHrefTagText": "Australia",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Europe",
+    "innerHrefTagText": "Europe",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Latin America",
+    "innerHrefTagText": "Latin America",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Middle East",
+    "innerHrefTagText": "Middle East",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US \u0026 Canada",
+    "innerHrefTagText": "US \u0026 Canada",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business",
+    "innerHrefTagText": "Business",
+    "classNames": [
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "selected",
+    "innerHrefTagText": "",
+    "classNames": [
+      "off-screen",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "selected"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Business Home",
+    "innerHrefTagText": "Business Home",
+    "classNames": [
+      "off-screen",
+      "js-navigation-panel-Business",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "navigation-panel-secondary",
+      "selected",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Your Money",
+    "innerHrefTagText": "Your Money",
+    "classNames": [
+      "off-screen",
+      "js-navigation-panel-Business",
+      "navigation-list-item--open",
+      "navigation-arrow",
+      "navigation-arrow--open",
+      "navigation-panel-secondary",
+      "selected",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Market Data",
+    "innerHrefTagText": "Market Data",
+    "classNames": [
+      "off-screen",
+      "js-navigation-panel-Business",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Markets",
+    "innerHrefTagText": "Markets",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Companies",
+    "innerHrefTagText": "Companies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Economy",
+    "innerHrefTagText": "Economy",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics",
+    "innerHrefTagText": "Politics",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Politics Home",
+    "innerHrefTagText": "Politics Home",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parliaments",
+    "innerHrefTagText": "Parliaments",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Election 2016",
+    "innerHrefTagText": "Election 2016",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Politics",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "EU Referendum",
+    "innerHrefTagText": "EU Referendum",
+    "classNames": [
+      "navigation-panel-secondary",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "US Election 2016",
+    "innerHrefTagText": "US Election 2016",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Tech",
+    "innerHrefTagText": "Tech",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Science",
+    "innerHrefTagText": "Science",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Health",
+    "innerHrefTagText": "Health",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education",
+    "innerHrefTagText": "Education",
+    "classNames": [
+      "navigation-arrow"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Education Home",
+    "innerHrefTagText": "Education Home",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "School Report",
+    "innerHrefTagText": "School Report",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Global Education",
+    "innerHrefTagText": "Global Education",
+    "classNames": [
+      "navigation-panel--closed",
+      "navigation-arrow",
+      "js-navigation-panel-Education",
+      "navigation-panel-secondary",
+      "navigation-panel",
+      "navigation-panel__content"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Entertainment \u0026 Arts",
+    "innerHrefTagText": "Entertainment \u0026 Arts",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Video \u0026 Audio",
+    "innerHrefTagText": "Video \u0026 Audio",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Magazine",
+    "innerHrefTagText": "Magazine",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "In Pictures",
+    "innerHrefTagText": "In Pictures",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Also in the News",
+    "innerHrefTagText": "Also in the News",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Special Reports",
+    "innerHrefTagText": "Special Reports",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explainers",
+    "innerHrefTagText": "Explainers",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The Reporters",
+    "innerHrefTagText": "The Reporters",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Have Your Say",
+    "innerHrefTagText": "Have Your Say",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Disability",
+    "innerHrefTagText": "Disability",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "BBC News Services",
+    "innerHrefTagText": "",
+    "classNames": [
+      "blue-tit__title",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "On your mobile",
+    "innerHrefTagText": "On your mobile",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "On your connected tv",
+    "innerHrefTagText": "On your connected tv",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner",
+      "distinct-component-group"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Get news alerts",
+    "innerHrefTagText": "Get news alerts",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "newsletter",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "blue-tit",
+      "blue-tit__inner"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact BBC News",
+    "innerHrefTagText": "Contact BBC News",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "blue-tit__title",
+      "newsletter",
+      "blue-tit__list-item",
+      "blue-tit__list",
+      "connected-tv",
+      "mobile",
+      "contact-us"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Explore the BBC",
+    "innerHrefTagText": "",
+    "classNames": [
+      "blue-tit__list-item-link",
+      "orb-footer-inner",
+      "orb-footer",
+      "orb-nav-sec",
+      "b-footer--grey--white",
+      "b-g-p",
+      "b-r",
+      "contact-us",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-footer",
+      "orb-nav-sec",
+      "b-footer--grey--white",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-footer-grey",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "News",
+    "innerHrefTagText": "News",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sec",
+      "b-g-p",
+      "orb-footer-primary-links",
+      "b-r",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Sport",
+    "innerHrefTagText": "Sport",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-footer-lead"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Weather",
+    "innerHrefTagText": "Weather",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-footer-primary-links",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Shop",
+    "innerHrefTagText": "Shop",
+    "classNames": [
+      "orb-nav-news",
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-d",
+      "orb-nav-newsdotcom",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-nav-newsdotcom",
+      "orb-w",
+      "orb-nav-earthdotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-sport",
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Capital",
+    "innerHrefTagText": "Capital",
+    "classNames": [
+      "orb-nav-weather",
+      "orb-nav-shop",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iPlayer",
+    "innerHrefTagText": "iPlayer",
+    "classNames": [
+      "orb-nav-shop",
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Culture",
+    "innerHrefTagText": "Culture",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-earthdotcom",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Autos",
+    "innerHrefTagText": "Autos",
+    "classNames": [
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-travel-dotcom",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Future",
+    "innerHrefTagText": "Future",
+    "classNames": [
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-capital",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "TV",
+    "innerHrefTagText": "TV",
+    "classNames": [
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-d",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-iplayer",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Radio",
+    "innerHrefTagText": "Radio",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-culture",
+      "orb-nav-autos"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBBC",
+    "innerHrefTagText": "CBBC",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-autos",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "CBeebies",
+    "innerHrefTagText": "CBeebies",
+    "classNames": [
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-future",
+      "orb-w",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Food",
+    "innerHrefTagText": "Food",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-tv",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "iWonder",
+    "innerHrefTagText": "iWonder",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-radio",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Bitesize",
+    "innerHrefTagText": "Bitesize",
+    "classNames": [
+      "orb-nav-food",
+      "orb-nav-cbeebies",
+      "orb-nav-cbbc"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Travel",
+    "innerHrefTagText": "Travel",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-cbeebies",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Music",
+    "innerHrefTagText": "Music",
+    "classNames": [
+      "orb-nav-food",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Earth",
+    "innerHrefTagText": "Earth",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Arts",
+    "innerHrefTagText": "Arts",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Make It Digital",
+    "innerHrefTagText": "Make It Digital",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-d",
+      "orb-nav-music",
+      "orb-nav-makeitdigital",
+      "orb-nav-travel",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Taster",
+    "innerHrefTagText": "Taster",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-music",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Nature",
+    "innerHrefTagText": "Nature",
+    "classNames": [
+      "orb-nav-earth",
+      "orb-nav-nature",
+      "orb-d",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Local",
+    "innerHrefTagText": "Local",
+    "classNames": [
+      "orb-nav-nature",
+      "orb-nav-makeitdigital",
+      "orb-w",
+      "orb-nav-local",
+      "orb-nav-arts"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Terms of Use",
+    "innerHrefTagText": "Terms of Use",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r",
+      "orb-nav-local"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "About the BBC",
+    "innerHrefTagText": "About the BBC",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Privacy Policy",
+    "innerHrefTagText": "Privacy Policy",
+    "classNames": [
+      "orb-footer-inner",
+      "orb-nav-sec",
+      "b-g-p",
+      "b-r"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Cookies",
+    "innerHrefTagText": "Cookies",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Accessibility Help",
+    "innerHrefTagText": "Accessibility Help",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Parental Guidance",
+    "innerHrefTagText": "Parental Guidance",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Contact the BBC",
+    "innerHrefTagText": "Contact the BBC",
+    "classNames": []
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Advertise with us",
+    "innerHrefTagText": "Advertise with us",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Ad choices",
+    "innerHrefTagText": "Ad choices",
+    "classNames": [
+      "",
+      "orb-w"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "Copyright © 2016 BBC.",
+    "innerHrefTagText": "",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  },
+  {
+    "isArticleTextBlock": false,
+    "text": "The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+    "innerHrefTagText": "Read about our approach to external linking.",
+    "classNames": [
+      "",
+      "orb-w",
+      "orb-hilight"
+    ]
+  }
+]

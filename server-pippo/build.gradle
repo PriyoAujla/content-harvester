@@ -1,0 +1,14 @@
+apply plugin: 'application'
+
+mainClassName = 'net.smartology.server.PippoMain'
+
+dependencies {
+    compile project(":blockify")
+    compile project(":data")
+    compile project(":classifier")
+    compile project(":evaluation")
+
+    compile 'ro.pippo:pippo:0.8.0'
+    compile 'org.codehaus.jackson:jackson-mapper-asl:1.9.13'
+
+}

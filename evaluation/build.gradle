@@ -1,0 +1,6 @@
+
+dependencies {
+    compile project(":feature-extraction")
+    compile project(":classifier")
+    compile project(":data")
+}
