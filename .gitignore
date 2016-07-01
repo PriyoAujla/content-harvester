@@ -1,0 +1,8 @@
+*.iml
+.idea
+*/*.log
+build/
+*/*.DS_STORE
+.DS_STORE
+.gradle
+classifier.obj
